@@ -1,0 +1,7304 @@
+fileFormatVersion: 2
+guid: e1b6a6cce0749ed4aac53b86a083ec72
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5636371435522412515
+    second: Red Sky_0
+  - first:
+      213: -4045068125312228731
+    second: Red Sky_1
+  - first:
+      213: 4569738258581674669
+    second: Red Sky_2
+  - first:
+      213: 3399751383590624516
+    second: Red Sky_3
+  - first:
+      213: 3181578521520620843
+    second: Red Sky_4
+  - first:
+      213: 5369763608868229645
+    second: Red Sky_5
+  - first:
+      213: -6735509483791010870
+    second: Red Sky_6
+  - first:
+      213: 5011948783798030528
+    second: Red Sky_7
+  - first:
+      213: -9040875003703653434
+    second: Red Sky_8
+  - first:
+      213: -4087511417074135968
+    second: Red Sky_9
+  - first:
+      213: -2046068804701298256
+    second: Red Sky_10
+  - first:
+      213: -5985045831506309602
+    second: Red Sky_11
+  - first:
+      213: -8838321107370671167
+    second: Red Sky_12
+  - first:
+      213: -7109828105799992619
+    second: Red Sky_13
+  - first:
+      213: -50538167111074790
+    second: Red Sky_14
+  - first:
+      213: -6534245784275225784
+    second: Red Sky_15
+  - first:
+      213: 72230527416897557
+    second: Red Sky_16
+  - first:
+      213: -5125112332599235014
+    second: Red Sky_17
+  - first:
+      213: 2427068341863713220
+    second: Red Sky_18
+  - first:
+      213: -5933199926175911907
+    second: Red Sky_19
+  - first:
+      213: -3865634458704807793
+    second: Red Sky_20
+  - first:
+      213: 8901886206774464167
+    second: Red Sky_21
+  - first:
+      213: 389073700512925119
+    second: Red Sky_22
+  - first:
+      213: 3167346480177443380
+    second: Red Sky_23
+  - first:
+      213: 5111764924507120403
+    second: Red Sky_24
+  - first:
+      213: -5007384552605251862
+    second: Red Sky_25
+  - first:
+      213: -7330913366448181036
+    second: Red Sky_26
+  - first:
+      213: 1851344319547611396
+    second: Red Sky_27
+  - first:
+      213: 2438369205753598837
+    second: Red Sky_28
+  - first:
+      213: 3671560528878484605
+    second: Red Sky_29
+  - first:
+      213: -3751633619877199839
+    second: Red Sky_30
+  - first:
+      213: -5442957486556569597
+    second: Red Sky_31
+  - first:
+      213: -5019509513791863524
+    second: Red Sky_32
+  - first:
+      213: 1535821710020926755
+    second: Red Sky_33
+  - first:
+      213: -1993222914229373697
+    second: Red Sky_34
+  - first:
+      213: -6830981570347029043
+    second: Red Sky_35
+  - first:
+      213: 5028556908001317731
+    second: Red Sky_36
+  - first:
+      213: -7193527974541769058
+    second: Red Sky_37
+  - first:
+      213: 3310636651484592320
+    second: Red Sky_38
+  - first:
+      213: -8615362350108065915
+    second: Red Sky_39
+  - first:
+      213: 1895873077654865982
+    second: Red Sky_40
+  - first:
+      213: -821409770958821417
+    second: Red Sky_41
+  - first:
+      213: -2737686823492494429
+    second: Red Sky_42
+  - first:
+      213: -2741957305002251420
+    second: Red Sky_43
+  - first:
+      213: -932266062702242612
+    second: Red Sky_44
+  - first:
+      213: -7609829717677069295
+    second: Red Sky_45
+  - first:
+      213: 7573891329359427448
+    second: Red Sky_46
+  - first:
+      213: -7548010461509515453
+    second: Red Sky_47
+  - first:
+      213: 7256020750642405374
+    second: Red Sky_48
+  - first:
+      213: -7360466564366039586
+    second: Red Sky_49
+  - first:
+      213: -5516116656792355182
+    second: Red Sky_50
+  - first:
+      213: 3736463251444867916
+    second: Red Sky_51
+  - first:
+      213: -7656731242538968821
+    second: Red Sky_52
+  - first:
+      213: -4790897461205359885
+    second: Red Sky_53
+  - first:
+      213: -4053495248574411207
+    second: Red Sky_54
+  - first:
+      213: -4380731074458295017
+    second: Red Sky_55
+  - first:
+      213: 6050689818028865093
+    second: Red Sky_56
+  - first:
+      213: 3906818269482729939
+    second: Red Sky_57
+  - first:
+      213: -4644427475561512713
+    second: Red Sky_58
+  - first:
+      213: -668171745851229458
+    second: Red Sky_59
+  - first:
+      213: -8808501575193331787
+    second: Red Sky_60
+  - first:
+      213: -658166522725573511
+    second: Red Sky_61
+  - first:
+      213: 772861182957673624
+    second: Red Sky_62
+  - first:
+      213: -1798310068853909988
+    second: Red Sky_63
+  - first:
+      213: -708960348976021411
+    second: Red Sky_64
+  - first:
+      213: 9045466953201082583
+    second: Red Sky_65
+  - first:
+      213: -2747707011717045508
+    second: Red Sky_66
+  - first:
+      213: 1994750981725263708
+    second: Red Sky_67
+  - first:
+      213: -7149646330757729447
+    second: Red Sky_68
+  - first:
+      213: 2724732191606554132
+    second: Red Sky_69
+  - first:
+      213: -2479282951046603764
+    second: Red Sky_70
+  - first:
+      213: -473115461348237217
+    second: Red Sky_71
+  - first:
+      213: -8465590210628413729
+    second: Red Sky_72
+  - first:
+      213: 8385725952256832833
+    second: Red Sky_73
+  - first:
+      213: 7563528505202080981
+    second: Red Sky_74
+  - first:
+      213: 7525056753119947521
+    second: Red Sky_75
+  - first:
+      213: -2095674475646241957
+    second: Red Sky_76
+  - first:
+      213: -2818916639782200783
+    second: Red Sky_77
+  - first:
+      213: 4693768481487273860
+    second: Red Sky_78
+  - first:
+      213: -6243235428173291409
+    second: Red Sky_79
+  - first:
+      213: 6354493862235288184
+    second: Red Sky_80
+  - first:
+      213: 6432662956972567042
+    second: Red Sky_81
+  - first:
+      213: 9089072001942030998
+    second: Red Sky_82
+  - first:
+      213: -9023308033797053715
+    second: Red Sky_83
+  - first:
+      213: 4270880374079139613
+    second: Red Sky_84
+  - first:
+      213: 7801436259400990037
+    second: Red Sky_85
+  - first:
+      213: 816813464143851141
+    second: Red Sky_86
+  - first:
+      213: 7133022764597795283
+    second: Red Sky_87
+  - first:
+      213: -8073413768959930707
+    second: Red Sky_88
+  - first:
+      213: 5960880773107212289
+    second: Red Sky_89
+  - first:
+      213: -6627056880995325209
+    second: Red Sky_90
+  - first:
+      213: -5690226821122759061
+    second: Red Sky_91
+  - first:
+      213: -9019877919436566051
+    second: Red Sky_92
+  - first:
+      213: 1680174973454629002
+    second: Red Sky_93
+  - first:
+      213: -6788724188146794437
+    second: Red Sky_94
+  - first:
+      213: -3577717067603301199
+    second: Red Sky_95
+  - first:
+      213: 5307587626930162507
+    second: Red Sky_96
+  - first:
+      213: -4422217840564955657
+    second: Red Sky_97
+  - first:
+      213: -76075257150681011
+    second: Red Sky_98
+  - first:
+      213: 5707684026639514094
+    second: Red Sky_99
+  - first:
+      213: 3427470217208144382
+    second: Red Sky_100
+  - first:
+      213: 8271003117784533561
+    second: Red Sky_101
+  - first:
+      213: 3445975167807930504
+    second: Red Sky_102
+  - first:
+      213: -7698521706570439930
+    second: Red Sky_103
+  - first:
+      213: 4262601721084245027
+    second: Red Sky_104
+  - first:
+      213: 2327501004452706823
+    second: Red Sky_105
+  - first:
+      213: -857593702824301475
+    second: Red Sky_106
+  - first:
+      213: 8372628093901364240
+    second: Red Sky_107
+  - first:
+      213: -3106954172642077075
+    second: Red Sky_108
+  - first:
+      213: 752467587139706564
+    second: Red Sky_109
+  - first:
+      213: 3088529780613164630
+    second: Red Sky_110
+  - first:
+      213: -8706102114351903875
+    second: Red Sky_111
+  - first:
+      213: -6003379458407226254
+    second: Red Sky_112
+  - first:
+      213: -6930446546994334801
+    second: Red Sky_113
+  - first:
+      213: 4236020228947760112
+    second: Red Sky_114
+  - first:
+      213: -6462005176207495572
+    second: Red Sky_115
+  - first:
+      213: 5037195096189495561
+    second: Red Sky_116
+  - first:
+      213: -7925584133205329465
+    second: Red Sky_117
+  - first:
+      213: -3952236830462033270
+    second: Red Sky_118
+  - first:
+      213: 4387623170645529040
+    second: Red Sky_119
+  - first:
+      213: 1455186451238017509
+    second: Red Sky_120
+  - first:
+      213: 5787061316615595933
+    second: Red Sky_121
+  - first:
+      213: 1896275955902149708
+    second: Red Sky_122
+  - first:
+      213: -1094953241413616428
+    second: Red Sky_123
+  - first:
+      213: 7657519736928347182
+    second: Red Sky_124
+  - first:
+      213: -5163557225944150952
+    second: Red Sky_125
+  - first:
+      213: -6143155467881996602
+    second: Red Sky_126
+  - first:
+      213: 4917662059079170870
+    second: Red Sky_127
+  - first:
+      213: -4106698720228098514
+    second: Red Sky_128
+  - first:
+      213: 4061961248708297890
+    second: Red Sky_129
+  - first:
+      213: -2529394516831307116
+    second: Red Sky_130
+  - first:
+      213: -6695241110814800885
+    second: Red Sky_131
+  - first:
+      213: -2395173834708771412
+    second: Red Sky_132
+  - first:
+      213: 866120016017931064
+    second: Red Sky_133
+  - first:
+      213: 863650579343712770
+    second: Red Sky_134
+  - first:
+      213: 8573943256130588300
+    second: Red Sky_135
+  - first:
+      213: -1060673613321033157
+    second: Red Sky_136
+  - first:
+      213: -6461943004898182990
+    second: Red Sky_137
+  - first:
+      213: -2621699104735026063
+    second: Red Sky_138
+  - first:
+      213: -5792267536269451847
+    second: Red Sky_139
+  - first:
+      213: -8758116384409386742
+    second: Red Sky_140
+  - first:
+      213: 2293402329581158328
+    second: Red Sky_141
+  - first:
+      213: 9016859045475061676
+    second: Red Sky_142
+  - first:
+      213: 3367593024801392841
+    second: Red Sky_143
+  - first:
+      213: -3765439521701531406
+    second: Red Sky_144
+  - first:
+      213: -5243746001783944846
+    second: Red Sky_145
+  - first:
+      213: 7041568499162876980
+    second: Red Sky_146
+  - first:
+      213: 8730687489196641030
+    second: Red Sky_147
+  - first:
+      213: 6521233207905378468
+    second: Red Sky_148
+  - first:
+      213: -6046118200457691943
+    second: Red Sky_149
+  - first:
+      213: -7968805435780025798
+    second: Red Sky_150
+  - first:
+      213: -2079845785127869229
+    second: Red Sky_151
+  - first:
+      213: 2711521817243160670
+    second: Red Sky_152
+  - first:
+      213: 644424157509670453
+    second: Red Sky_153
+  - first:
+      213: -7944870711680966265
+    second: Red Sky_154
+  - first:
+      213: 8646198001769248357
+    second: Red Sky_155
+  - first:
+      213: -2219342999079394987
+    second: Red Sky_156
+  - first:
+      213: -1076464916133509968
+    second: Red Sky_157
+  - first:
+      213: -4969270231116756566
+    second: Red Sky_158
+  - first:
+      213: -2199006775154707187
+    second: Red Sky_159
+  - first:
+      213: -1225488129364846819
+    second: Red Sky_160
+  - first:
+      213: 3067663889150061747
+    second: Red Sky_161
+  - first:
+      213: -5787770381070014715
+    second: Red Sky_162
+  - first:
+      213: 9101059800719515912
+    second: Red Sky_163
+  - first:
+      213: 7996857078539129611
+    second: Red Sky_164
+  - first:
+      213: -341308485619003982
+    second: Red Sky_165
+  - first:
+      213: 1052669505873302418
+    second: Red Sky_166
+  - first:
+      213: 5884414874493300175
+    second: Red Sky_167
+  - first:
+      213: -8498515239598957595
+    second: Red Sky_168
+  - first:
+      213: -954141180967321624
+    second: Red Sky_169
+  - first:
+      213: 1784680248940296740
+    second: Red Sky_170
+  - first:
+      213: -1828594144449959702
+    second: Red Sky_171
+  - first:
+      213: -9014907253899957355
+    second: Red Sky_172
+  - first:
+      213: -2227772100054017624
+    second: Red Sky_173
+  - first:
+      213: -1710018696491517093
+    second: Red Sky_174
+  - first:
+      213: 1558637917876350842
+    second: Red Sky_175
+  - first:
+      213: -5276076073644812459
+    second: Red Sky_176
+  - first:
+      213: -8440600989750330638
+    second: Red Sky_177
+  - first:
+      213: -929736473439140725
+    second: Red Sky_178
+  - first:
+      213: 8487809254890406269
+    second: Red Sky_179
+  - first:
+      213: 4242260367409542771
+    second: Red Sky_180
+  - first:
+      213: -9088841835998522069
+    second: Red Sky_181
+  - first:
+      213: -5733992590452421380
+    second: Red Sky_182
+  - first:
+      213: -5809071190843854534
+    second: Red Sky_183
+  - first:
+      213: 4992966377259082597
+    second: Red Sky_184
+  - first:
+      213: 1302649122206415190
+    second: Red Sky_185
+  - first:
+      213: -6821458540965871521
+    second: Red Sky_186
+  - first:
+      213: 620387448702752663
+    second: Red Sky_187
+  - first:
+      213: -2306658292772071051
+    second: Red Sky_188
+  - first:
+      213: 2760906811271115110
+    second: Red Sky_189
+  - first:
+      213: 5967111145810735249
+    second: Red Sky_190
+  - first:
+      213: -5547903914587741435
+    second: Red Sky_191
+  - first:
+      213: 1155319544734038103
+    second: Red Sky_192
+  - first:
+      213: 4729030964284736073
+    second: Red Sky_193
+  - first:
+      213: -8136242384659661691
+    second: Red Sky_194
+  - first:
+      213: 6831820639804491250
+    second: Red Sky_195
+  - first:
+      213: -6402777667575771723
+    second: Red Sky_196
+  - first:
+      213: 3597465424351821653
+    second: Red Sky_197
+  - first:
+      213: -1414006218605265958
+    second: Red Sky_198
+  - first:
+      213: -1345831555079822614
+    second: Red Sky_199
+  - first:
+      213: 4027075249686282887
+    second: Red Sky_200
+  - first:
+      213: -1443694235682432896
+    second: Red Sky_201
+  - first:
+      213: 8926160072806126615
+    second: Red Sky_202
+  - first:
+      213: 547482444020098672
+    second: Red Sky_203
+  - first:
+      213: -6993980531113839206
+    second: Red Sky_204
+  - first:
+      213: -8449660144851521698
+    second: Red Sky_205
+  - first:
+      213: 8112570811859598787
+    second: Red Sky_206
+  - first:
+      213: -9200996741950092544
+    second: Red Sky_207
+  - first:
+      213: 2715830750722422889
+    second: Red Sky_208
+  - first:
+      213: 2575748232238474389
+    second: Red Sky_209
+  - first:
+      213: 7973228158199218667
+    second: Red Sky_210
+  - first:
+      213: -1428070579444064233
+    second: Red Sky_211
+  - first:
+      213: 3017795462510193991
+    second: Red Sky_212
+  - first:
+      213: -3321460837027253365
+    second: Red Sky_213
+  - first:
+      213: 1025572577257374043
+    second: Red Sky_214
+  - first:
+      213: -6421771046533615206
+    second: Red Sky_215
+  - first:
+      213: -1321356756239010516
+    second: Red Sky_216
+  - first:
+      213: -6916368044749062155
+    second: Red Sky_217
+  - first:
+      213: 7607239277069442395
+    second: Red Sky_218
+  - first:
+      213: -5039783258175045776
+    second: Red Sky_219
+  - first:
+      213: -3948016343450839603
+    second: Red Sky_220
+  - first:
+      213: 6696666160569997041
+    second: Red Sky_221
+  - first:
+      213: 5091710731386764679
+    second: Red Sky_222
+  - first:
+      213: 9012950149715396773
+    second: Red Sky_223
+  - first:
+      213: 8481800259899700618
+    second: Red Sky_224
+  - first:
+      213: -9081271732125969167
+    second: Red Sky_225
+  - first:
+      213: 2389581963537146042
+    second: Red Sky_226
+  - first:
+      213: -7524668919033385990
+    second: Red Sky_227
+  - first:
+      213: 1310555373015143274
+    second: Red Sky_228
+  - first:
+      213: 6133204181919236844
+    second: Red Sky_229
+  - first:
+      213: 8687392826071083191
+    second: Red Sky_230
+  - first:
+      213: -1425538649969002060
+    second: Red Sky_231
+  - first:
+      213: 3127842462213525538
+    second: Red Sky_232
+  - first:
+      213: 6317186401970039608
+    second: Red Sky_233
+  - first:
+      213: -7527872302088873453
+    second: Red Sky_234
+  - first:
+      213: 3488510597737205163
+    second: Red Sky_235
+  - first:
+      213: -2772871074253140874
+    second: Red Sky_236
+  - first:
+      213: 8636979792137534660
+    second: Red Sky_237
+  - first:
+      213: 5201896278788172941
+    second: Red Sky_238
+  - first:
+      213: 3447273929821960136
+    second: Red Sky_239
+  - first:
+      213: 4884538999153563857
+    second: Red Sky_240
+  - first:
+      213: 6766776655813855764
+    second: Red Sky_241
+  - first:
+      213: 6621883337411408330
+    second: Red Sky_242
+  - first:
+      213: -3132248744364164636
+    second: Red Sky_243
+  - first:
+      213: 1298368004495777033
+    second: Red Sky_244
+  - first:
+      213: -7454015801160140676
+    second: Red Sky_245
+  - first:
+      213: -6271412701858013724
+    second: Red Sky_246
+  - first:
+      213: 6736324394033071341
+    second: Red Sky_247
+  - first:
+      213: -5864866350485737349
+    second: Red Sky_248
+  - first:
+      213: -2598845105014353654
+    second: Red Sky_249
+  - first:
+      213: -393484906160728585
+    second: Red Sky_250
+  - first:
+      213: 4809312169448929893
+    second: Red Sky_251
+  - first:
+      213: -3539549068502765032
+    second: Red Sky_252
+  - first:
+      213: 5588626277088547270
+    second: Red Sky_253
+  - first:
+      213: 7376976854862124818
+    second: Red Sky_254
+  - first:
+      213: -7608222580364802082
+    second: Red Sky_255
+  - first:
+      213: 5939603662324494107
+    second: Red Sky_256
+  - first:
+      213: 3426713067985209536
+    second: Red Sky_257
+  - first:
+      213: 4802997831074552708
+    second: Red Sky_258
+  - first:
+      213: 3876292337465686718
+    second: Red Sky_259
+  - first:
+      213: 6038314236499699937
+    second: Red Sky_260
+  - first:
+      213: 8412053918052323367
+    second: Red Sky_261
+  - first:
+      213: -1632925940456921583
+    second: Red Sky_262
+  - first:
+      213: 8926519641420829683
+    second: Red Sky_263
+  - first:
+      213: 5637308019977434753
+    second: Red Sky_264
+  - first:
+      213: 6299290704385149746
+    second: Red Sky_265
+  - first:
+      213: -5564912781842397305
+    second: Red Sky_266
+  - first:
+      213: -3674369728878797118
+    second: Red Sky_267
+  - first:
+      213: -3283808239146129135
+    second: Red Sky_268
+  - first:
+      213: 1740011265752473874
+    second: Red Sky_269
+  - first:
+      213: -4329001719792303052
+    second: Red Sky_270
+  - first:
+      213: -9063625461838213039
+    second: Red Sky_271
+  - first:
+      213: 2192008755782093028
+    second: Red Sky_272
+  - first:
+      213: 5988518625670149158
+    second: Red Sky_273
+  - first:
+      213: 7091568319619283340
+    second: Red Sky_274
+  - first:
+      213: -7934543640156535117
+    second: Red Sky_275
+  - first:
+      213: -7459701843687300264
+    second: Red Sky_276
+  - first:
+      213: -98025290131015300
+    second: Red Sky_277
+  - first:
+      213: 8209502114318443854
+    second: Red Sky_278
+  - first:
+      213: 5722813774729162300
+    second: Red Sky_279
+  - first:
+      213: 1529587286971444381
+    second: Red Sky_280
+  - first:
+      213: 5819661384005104409
+    second: Red Sky_281
+  - first:
+      213: -6265536906474221735
+    second: Red Sky_282
+  - first:
+      213: 1048162663676422979
+    second: Red Sky_283
+  - first:
+      213: 4588292456756306624
+    second: Red Sky_284
+  - first:
+      213: 6844799981726927461
+    second: Red Sky_285
+  - first:
+      213: 205391591542302269
+    second: Red Sky_286
+  - first:
+      213: 4991474341642209311
+    second: Red Sky_287
+  - first:
+      213: 2661138907535203833
+    second: Red Sky_288
+  - first:
+      213: 4649887158285497
+    second: Red Sky_289
+  - first:
+      213: -7042972854739857787
+    second: Red Sky_290
+  - first:
+      213: 1894189646971623055
+    second: Red Sky_291
+  - first:
+      213: 6137085074611651279
+    second: Red Sky_292
+  - first:
+      213: 2451755251619128504
+    second: Red Sky_293
+  - first:
+      213: 7199173947475476866
+    second: Red Sky_294
+  - first:
+      213: -1620716067958118607
+    second: Red Sky_295
+  - first:
+      213: 1341511326866800264
+    second: Red Sky_296
+  - first:
+      213: 3719304582451239425
+    second: Red Sky_297
+  - first:
+      213: -5100531255152116721
+    second: Red Sky_298
+  - first:
+      213: 9046747203903961134
+    second: Red Sky_299
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Red Sky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3efc87435f9683e40800000000000000
+      internalID: 5636371435522412515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826282c8f70dd7c0800000000000000
+      internalID: -4045068125312228731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daad5431cb8fa6f30800000000000000
+      internalID: 4569738258581674669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ddf87eed75e2f20800000000000000
+      internalID: 3399751383590624516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25cf300fcc372c20800000000000000
+      internalID: 3181578521520620843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0219625d8b358a40800000000000000
+      internalID: 5369763608868229645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac3bc5d8fc9a682a0800000000000000
+      internalID: -6735509483791010870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c09bba4dd40e8540800000000000000
+      internalID: 5011948783798030528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb0981b51c588280800000000000000
+      internalID: -9040875003703653434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c41f1d50e3647c0800000000000000
+      internalID: -4087511417074135968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b165cd3347ea93e0800000000000000
+      internalID: -2046068804701298256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1e42a0c688d0fca0800000000000000
+      internalID: -5985045831506309602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c38550c7c9f75580800000000000000
+      internalID: -8838321107370671167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5daf3bbd101d45d90800000000000000
+      internalID: -7109828105799992619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cbeb50ec37c4ff0800000000000000
+      internalID: -50538167111074790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8437e214412b155a0800000000000000
+      internalID: -6534245784275225784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5109f90384d900100800000000000000
+      internalID: 72230527416897557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3ee27dcc71ffd8b0800000000000000
+      internalID: -5125112332599235014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9026a3ccdaea120800000000000000
+      internalID: 2427068341863713220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1039e24a1a09ada0800000000000000
+      internalID: -5933199926175911907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f88f369d0f18a5ac0800000000000000
+      internalID: -3865634458704807793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7aecdb1475ad98b70800000000000000
+      internalID: 8901886206774464167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5058e1874466500800000000000000
+      internalID: 389073700512925119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4327f87a7dca4fb20800000000000000
+      internalID: 3167346480177443380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3136c849d13a0f640800000000000000
+      internalID: 5111764924507120403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae68f289742328ab0800000000000000
+      internalID: -5007384552605251862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d071b1522d534a90800000000000000
+      internalID: -7330913366448181036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409929b89db41b910800000000000000
+      internalID: 1851344319547611396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 573d134afd3d6d120800000000000000
+      internalID: 2438369205753598837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cb52729d004f230800000000000000
+      internalID: 3671560528878484605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1208ec789158febc0800000000000000
+      internalID: -3751633619877199839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3002e36010bb674b0800000000000000
+      internalID: -5442957486556569597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c150eb311be175ab0800000000000000
+      internalID: -5019509513791863524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d512845b5505510800000000000000
+      internalID: 1535821710020926755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4703fe156a654e0800000000000000
+      internalID: -1993222914229373697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcda930347a7331a0800000000000000
+      internalID: -6830981570347029043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 363514a8dd509c540800000000000000
+      internalID: 5028556908001317731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e964a9b8b647b2c90800000000000000
+      internalID: -7193527974541769058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8b0287e7eb1fd20800000000000000
+      internalID: 3310636651484592320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58fb886b695107880800000000000000
+      internalID: -8615362350108065915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3848d4f48e7f4a10800000000000000
+      internalID: 1895873077654865982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d7e6f25a24c994f0800000000000000
+      internalID: -821409770958821417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ab5673c658c10ad0800000000000000
+      internalID: -2737686823492494429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46bad0ecb5c92f9d0800000000000000
+      internalID: -2741957305002251420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc41b7094fcef03f0800000000000000
+      internalID: -932266062702242612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11ca5acb034746690800000000000000
+      internalID: -7609829717677069295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87731ed290edb1960800000000000000
+      internalID: 7573891329359427448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3470bc0f974104790800000000000000
+      internalID: -7548010461509515453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff57ecbd6092b460800000000000000
+      internalID: 7256020750642405374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed582d938ae5ad990800000000000000
+      internalID: -7360466564366039586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29eb6445021d273b0800000000000000
+      internalID: -5516116656792355182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c432ca2d7859ad330800000000000000
+      internalID: 3736463251444867916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0954d38083ddb590800000000000000
+      internalID: -7656731242538968821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2a88d6420538db0800000000000000
+      internalID: -4790897461205359885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e0df93c871fb7c0800000000000000
+      internalID: -4053495248574411207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 715e5624c448433c0800000000000000
+      internalID: -4380731074458295017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546fea1e45e58f350800000000000000
+      internalID: 6050689818028865093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d14682548ec73630800000000000000
+      internalID: 3906818269482729939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0871671ddab8fb0800000000000000
+      internalID: -4644427475561512713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeab597565d2ab6f0800000000000000
+      internalID: -668171745851229458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7f12f9c7ae1c580800000000000000
+      internalID: -8808501575193331787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c53e1e809bdd6f0800000000000000
+      internalID: -658166522725573511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c51eea621c9ba00800000000000000
+      internalID: 772861182957673624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1654fd258e1b07e0800000000000000
+      internalID: -1798310068853909988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d50827f91544926f0800000000000000
+      internalID: -708960348976021411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0e51dd444f78d70800000000000000
+      internalID: 9045466953201082583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf261c3e70f2ed9d0800000000000000
+      internalID: -2747707011717045508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5798110377ceab10800000000000000
+      internalID: 1994750981725263708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b289ea8a57cc90800000000000000
+      internalID: -7149646330757729447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41eb7c4fd7130d520800000000000000
+      internalID: 2724732191606554132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0c5f25ba41d79dd0800000000000000
+      internalID: -2479282951046603764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50e79c9ef72f69f0800000000000000
+      internalID: -473115461348237217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd618795e8e248a80800000000000000
+      internalID: -8465590210628413729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145fa08f255106470800000000000000
+      internalID: 8385725952256832833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7c192a1d07f860800000000000000
+      internalID: 7563528505202080981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10b6e5c5f3f5e6860800000000000000
+      internalID: 7525056753119947521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b042fa2baae2e0800000000000000
+      internalID: -2095674475646241957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a185a504231e8d0800000000000000
+      internalID: -2818916639782200783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f39f4b09d932140800000000000000
+      internalID: 4693768481487273860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60e896c4729b59a0800000000000000
+      internalID: -6243235428173291409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8723fe90082bf2850800000000000000
+      internalID: 6354493862235288184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ae92ea0e8654950800000000000000
+      internalID: 6432662956972567042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a04bd64ded22e70800000000000000
+      internalID: 9089072001942030998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de2299a9625c6c280800000000000000
+      internalID: -9023308033797053715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1fac277217354b30800000000000000
+      internalID: 4270880374079139613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55db273b1f4444c60800000000000000
+      internalID: 7801436259400990037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58eec0a9487e55b00800000000000000
+      internalID: 816813464143851141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d950aa79669df260800000000000000
+      internalID: 7133022764597795283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae4560b3f875ff80800000000000000
+      internalID: -8073413768959930707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 100e2852b7d49b250800000000000000
+      internalID: 5960880773107212289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ea27fdd0e6f704a0800000000000000
+      internalID: -6627056880995325209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e393bad04801b0800000000000000
+      internalID: -5690226821122759061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1189652d4f2d280800000000000000
+      internalID: -9019877919436566051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88b3458c3e215710800000000000000
+      internalID: 1680174973454629002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30886fa15b99c1a0800000000000000
+      internalID: -6788724188146794437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc27a65845695ec0800000000000000
+      internalID: -3577717067603301199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4b4e6d63d658a940800000000000000
+      internalID: 5307587626930162507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f51bbdcd4021a2c0800000000000000
+      internalID: -4422217840564955657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_98
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d405659e4f9b1fef0800000000000000
+      internalID: -76075257150681011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee9f402b164c53f40800000000000000
+      internalID: 5707684026639514094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef12ce6c002d09f20800000000000000
+      internalID: 3427470217208144382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93a02b3938188c270800000000000000
+      internalID: 8271003117784533561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8804206582092df20800000000000000
+      internalID: 3445975167807930504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6032c30eb4b592590800000000000000
+      internalID: -7698521706570439930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 324f13c5eadc72b30800000000000000
+      internalID: 4262601721084245027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ab4c8f4d1fc4020800000000000000
+      internalID: 2327501004452706823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5cab8d22173914f0800000000000000
+      internalID: -857593702824301475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01c527d24ec813470800000000000000
+      internalID: 8372628093901364240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66504e24a1e1e4d0800000000000000
+      internalID: -3106954172642077075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce1574a84d417a00800000000000000
+      internalID: 752467587139706564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ea9a3c879acda20800000000000000
+      internalID: 3088529780613164630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b07cff046bd2780800000000000000
+      internalID: -8706102114351903875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 274a2c99036bfaca0800000000000000
+      internalID: -6003379458407226254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3f197a59b12df90800000000000000
+      internalID: -6930446546994334801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f3dccf64fd59ca30800000000000000
+      internalID: 4236020228947760112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6eaa6787885256a0800000000000000
+      internalID: -6462005176207495572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909e6b47046b7e540800000000000000
+      internalID: 5037195096189495561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9f2dee83ba20290800000000000000
+      internalID: -7925584133205329465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a824814ea85d629c0800000000000000
+      internalID: -3952236830462033270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1999ee608f3ec30800000000000000
+      internalID: 4387623170645529040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9d0041e5cd13410800000000000000
+      internalID: 1455186451238017509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d97e6463b95cf4050800000000000000
+      internalID: 5787061316615595933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4479ab5fece05a10800000000000000
+      internalID: 1896275955902149708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcf0e704d1fdc0f0800000000000000
+      internalID: -1094953241413616428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e24282421a9f44a60800000000000000
+      internalID: 7657519736928347182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c823a8f0c5758b0800000000000000
+      internalID: -5163557225944150952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce15e856a02fbaa0800000000000000
+      internalID: -6143155467881996602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63b74dc769b0f3440800000000000000
+      internalID: 4917662059079170870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2eb04da5431207c0800000000000000
+      internalID: -4106698720228098514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a409a80c3cfe5830800000000000000
+      internalID: 4061961248708297890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49af2779619c5ecd0800000000000000
+      internalID: -2529394516831307116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b04ca40cea9b513a0800000000000000
+      internalID: -6695241110814800885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad9fd66612a2ced0800000000000000
+      internalID: -2395173834708771412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bba9fc093150c00800000000000000
+      internalID: 866120016017931064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202a7d740ad4cfb00800000000000000
+      internalID: 863650579343712770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e050af6f3ccf670800000000000000
+      internalID: 8573943256130588300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_136
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3aae57e7fab741f0800000000000000
+      internalID: -1060673613321033157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b8393ae2119256a0800000000000000
+      internalID: -6461943004898182990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1742f4afd8add9bd0800000000000000
+      internalID: -2621699104735026063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bdd1a05d5bbd9fa0800000000000000
+      internalID: -5792267536269451847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0100c50d8be47680800000000000000
+      internalID: -8758116384409386742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bffcbd844dc3df10800000000000000
+      internalID: 2293402329581158328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf0f4b4781522d70800000000000000
+      internalID: 9016859045475061676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c8ce5783081cbe20800000000000000
+      internalID: 3367593024801392841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_144
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f073c584b87ebbc0800000000000000
+      internalID: -3765439521701531406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_145
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2790b4f3bc87a37b0800000000000000
+      internalID: -5243746001783944846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c0f2efd3da8b160800000000000000
+      internalID: 7041568499162876980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_147
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b4386a302a92970800000000000000
+      internalID: 8730687489196641030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a06ea63d03108a50800000000000000
+      internalID: 6521233207905378468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcf1b7c78fd71ca0800000000000000
+      internalID: -6046118200457691943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a32312c3dad196190800000000000000
+      internalID: -7968805435780025798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d42cd52747e223e0800000000000000
+      internalID: -2079845785127869229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50108df9b241a520800000000000000
+      internalID: 2711521817243160670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_153
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5365b016b5471f800800000000000000
+      internalID: 644424157509670453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 781e9d37e262eb190800000000000000
+      internalID: -7944870711680966265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 566f529e5477df770800000000000000
+      internalID: 8646198001769248357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5516f190d4f4331e0800000000000000
+      internalID: -2219342999079394987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b401b4bcd0af01f0800000000000000
+      internalID: -1076464916133509968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa9cc599d0b990bb0800000000000000
+      internalID: -4969270231116756566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d05f9342dfe8b71e0800000000000000
+      internalID: -2199006775154707187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1710cc0a013efee0800000000000000
+      internalID: -1225488129364846819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_161
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc2513dd08829a20800000000000000
+      internalID: 3067663889150061747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5076bcad085bdafa0800000000000000
+      internalID: -5787770381070014715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_163
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80169755ba57d4e70800000000000000
+      internalID: 9101059800719515912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0394edc42b8afe60800000000000000
+      internalID: 7996857078539129611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd4adb9dbd634bf0800000000000000
+      internalID: -341308485619003982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 293d67b9655db9e00800000000000000
+      internalID: 1052669505873302418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcda231c624a9a150800000000000000
+      internalID: 5884414874493300175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ebd579aa653f0a80800000000000000
+      internalID: -8498515239598957595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_169
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8effed2b6a532c2f0800000000000000
+      internalID: -954141180967321624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42afdb31b3574c810800000000000000
+      internalID: 1784680248940296740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_171
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae863bd50578f96e0800000000000000
+      internalID: -1828594144449959702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_172
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b63389d9d94e280800000000000000
+      internalID: -9014907253899957355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a911c7041d5511e0800000000000000
+      internalID: -2227772100054017624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bb85c3e0bc448e0800000000000000
+      internalID: -1710018696491517093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f6974ade461a510800000000000000
+      internalID: 1558637917876350842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557967ec3cc97c6b0800000000000000
+      internalID: -5276076073644812459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fafe1bbe16fcda80800000000000000
+      internalID: -8440600989750330638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_178
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b848fe57a99e813f0800000000000000
+      internalID: -929736473439140725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7104070c81cac570800000000000000
+      internalID: 8487809254890406269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_180
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376f924e3598fda30800000000000000
+      internalID: 4242260367409542771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_181
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2559914182fdd180800000000000000
+      internalID: -9088841835998522069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfc8c557e14cc60b0800000000000000
+      internalID: -5733992590452421380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a31fbca9788026fa0800000000000000
+      internalID: -5809071190843854534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_184
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5632ffb57749a4540800000000000000
+      internalID: 4992966377259082597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_185
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65976149970f31210800000000000000
+      internalID: 1302649122206415190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_186
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50ccaf399f4551a0800000000000000
+      internalID: -6821458540965871521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797d90ff81f0c9800800000000000000
+      internalID: 620387448702752663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_188
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5799c11018a1dffd0800000000000000
+      internalID: -2306658292772071051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_189
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66175cfed16b05620800000000000000
+      internalID: 2760906811271115110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190b255d8ff6fc250800000000000000
+      internalID: 5967111145810735249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503aff2a8c2e103b0800000000000000
+      internalID: -5547903914587741435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_192
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75830f93105880010800000000000000
+      internalID: 1155319544734038103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_193
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942c3064b94e0a140800000000000000
+      internalID: 4729030964284736073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_194
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58c32e7a8a2461f80800000000000000
+      internalID: -8136242384659661691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_195
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f58ab4eca08fce50800000000000000
+      internalID: 6831820639804491250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd875c72a3c427a0800000000000000
+      internalID: -6402777667575771723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_197
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f7d364eb3cce130800000000000000
+      internalID: 3597465424351821653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbf6ddf5d0706ce0800000000000000
+      internalID: -1414006218605265958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2a4f7c455a25de0800000000000000
+      internalID: -1345831555079822614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 782815d6a9b03e730800000000000000
+      internalID: 4027075249686282887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0889eddddb7f6fbe0800000000000000
+      internalID: -1443694235682432896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71452eb1b4710eb70800000000000000
+      internalID: 8926160072806126615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 076a494d16c099700800000000000000
+      internalID: 547482444020098672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9536fc33c360fe90800000000000000
+      internalID: -6993980531113839206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f6951ddd6ccba80800000000000000
+      internalID: -8449660144851521698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cdf710db24a59070800000000000000
+      internalID: 8112570811859598787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bc980563e7f4080800000000000000
+      internalID: -9200996741950092544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96874eebda190b520800000000000000
+      internalID: 2715830750722422889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5942a6dce55eeb320800000000000000
+      internalID: 2575748232238474389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be14b9214c896ae60800000000000000
+      internalID: 7973228158199218667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_211
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 710ec0ecf597e2ce0800000000000000
+      internalID: -1428070579444064233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74da4b3fbfc51e920800000000000000
+      internalID: 3017795462510193991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b837e9177fcc7e1d0800000000000000
+      internalID: -3321460837027253365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_214
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b51cec643d09b3e00800000000000000
+      internalID: 1025572577257374043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a91b976d14941e6a0800000000000000
+      internalID: -6421771046533615206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25bfc2f70999ade0800000000000000
+      internalID: -1321356756239010516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ff7ed468ef1400a0800000000000000
+      internalID: -6916368044749062155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_218
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d9f1f41d7529960800000000000000
+      internalID: 7607239277069442395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ff38f14d71f0ab0800000000000000
+      internalID: -5039783258175045776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc51d299d04d539c0800000000000000
+      internalID: -3948016343450839603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_221
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6572084665fec50800000000000000
+      internalID: 6696666160569997041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_222
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78d3a53eee369a640800000000000000
+      internalID: 5091710731386764679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_223
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a80714986e641d70800000000000000
+      internalID: 9012950149715396773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a85332bd56865b570800000000000000
+      internalID: 8481800259899700618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4d5d96977d8f180800000000000000
+      internalID: -9081271732125969167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_226
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab0ef42a220892120800000000000000
+      internalID: 2389581963537146042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_227
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afba79c4c71039790800000000000000
+      internalID: -7524668919033385990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_228
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a631c0b0b27003210800000000000000
+      internalID: 1310555373015143274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce28c3655b48d1550800000000000000
+      internalID: 6133204181919236844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_230
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b86e3e5fb1df8870800000000000000
+      internalID: 8687392826071083191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_231
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9f1039628773ce0800000000000000
+      internalID: -1425538649969002060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_232
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220de99b524586b20800000000000000
+      internalID: 3127842462213525538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b2a5d00972ba750800000000000000
+      internalID: 6317186401970039608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_234
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a9d7f8600a78790800000000000000
+      internalID: -7527872302088873453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_235
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badcf4dd7eda96030800000000000000
+      internalID: 3488510597737205163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_236
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67c8f230378c489d0800000000000000
+      internalID: -2772871074253140874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ccb59a3c57bcd770800000000000000
+      internalID: 8636979792137534660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c689fca19d03840800000000000000
+      internalID: 5201896278788172941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_239
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7b08eef5d27df20800000000000000
+      internalID: 3447273929821960136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_240
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d81710275e59c340800000000000000
+      internalID: 4884538999153563857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41ac03c348b68ed50800000000000000
+      internalID: 6766776655813855764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_242
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac13c76afc7a5eb50800000000000000
+      internalID: 6621883337411408330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_243
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e9b204cc540884d0800000000000000
+      internalID: -3132248744364164636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d14bf22dab40210800000000000000
+      internalID: 1298368004495777033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_245
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7873b53f140e8890800000000000000
+      internalID: -7454015801160140676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_246
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed51e1006777f8a0800000000000000
+      internalID: -6271412701858013724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_247
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4c326885b3c7d50800000000000000
+      internalID: 6736324394033071341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_248
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70f72ca02fcb9ea0800000000000000
+      internalID: -5864866350485737349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a015b51752c0febd0800000000000000
+      internalID: -2598845105014353654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5dfc7009f0a8af0800000000000000
+      internalID: -393484906160728585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a77f1ffeb1eb240800000000000000
+      internalID: 4809312169448929893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812f3d220eef0eec0800000000000000
+      internalID: -3539549068502765032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c1d64c3df9ce8d40800000000000000
+      internalID: 5588626277088547270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217d5565d59406660800000000000000
+      internalID: 7376976854862124818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_255
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7004d8fd92a6690800000000000000
+      internalID: -7608222580364802082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_256
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1fe57fbf06bd6250800000000000000
+      internalID: 5939603662324494107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_257
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c8827c31612e8f20800000000000000
+      internalID: 3426713067985209536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b9b2a741da7a240800000000000000
+      internalID: 4802997831074552708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebaf53ce75b5bc530800000000000000
+      internalID: 3876292337465686718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8afb44ec66cc350800000000000000
+      internalID: 6038314236499699937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_261
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72011f0387e9db470800000000000000
+      internalID: 8412053918052323367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1166b8e328ea659e0800000000000000
+      internalID: -1632925940456921583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_263
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f39f63b15e51eb70800000000000000
+      internalID: 8926519641420829683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_264
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1863734c6cdbb3e40800000000000000
+      internalID: 5637308019977434753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_265
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23b0cc345839b6750800000000000000
+      internalID: 6299290704385149746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 787c0402f4575c2b0800000000000000
+      internalID: -5564912781842397305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_267
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce1bb00334020dc0800000000000000
+      internalID: -3674369728878797118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_268
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119a13b0ec19d62d0800000000000000
+      internalID: -3283808239146129135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_269
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211aa58f603c52810800000000000000
+      internalID: 1740011265752473874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_270
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43489b33fdb4ce3c0800000000000000
+      internalID: -4329001719792303052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_271
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15092f1e9a8873280800000000000000
+      internalID: -9063625461838213039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_272
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e800f089549b6e10800000000000000
+      internalID: 2192008755782093028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_273
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62431e526fd7b1350800000000000000
+      internalID: 5988518625670149158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_274
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89325f50df4a6260800000000000000
+      internalID: 7091568319619283340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b682a92996d2e190800000000000000
+      internalID: -7934543640156535117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_276
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85321b442b0d97890800000000000000
+      internalID: -7459701843687300264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_277
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c797cba948eb3aef0800000000000000
+      internalID: -98025290131015300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e45e4ca5da20ee170800000000000000
+      internalID: 8209502114318443854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_279
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3ea17eaec48b6f40800000000000000
+      internalID: 5722813774729162300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_280
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ce2ec888f2a3510800000000000000
+      internalID: 1529587286971444381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_281
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 913bea2e13793c050800000000000000
+      internalID: 5819661384005104409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_282
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f018a31675c09a0800000000000000
+      internalID: -6265536906474221735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_283
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ba243a362db8e00800000000000000
+      internalID: 1048162663676422979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2609afda3ecaf30800000000000000
+      internalID: 4588292456756306624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_285
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56a0f6d615d9dfe50800000000000000
+      internalID: 6844799981726927461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_286
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d362bb57092b9d200800000000000000
+      internalID: 205391591542302269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f188f0fb777454540800000000000000
+      internalID: 4991474341642209311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_288
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd5b91bcb34ee420800000000000000
+      internalID: 2661138907535203833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_289
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4b0583c05801000800000000000000
+      internalID: 4649887158285497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_290
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58e038ef085524e90800000000000000
+      internalID: -7042972854739857787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_291
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8657f4b273894a10800000000000000
+      internalID: 1894189646971623055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_292
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc244941c5e4b2550800000000000000
+      internalID: 6137085074611651279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_293
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b4e4f05962660220800000000000000
+      internalID: 2451755251619128504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_294
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281c587ff8a98e360800000000000000
+      internalID: 7199173947475476866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_295
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137a697b25f0289e0800000000000000
+      internalID: -1620716067958118607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_296
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88efe04b1710e9210800000000000000
+      internalID: 1341511326866800264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_297
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1d70efcf9d9330800000000000000
+      internalID: 3719304582451239425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_298
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c71e2e8d54739b0800000000000000
+      internalID: -5100531255152116721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Red Sky_299
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28347576a08c8d70800000000000000
+      internalID: 9046747203903961134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

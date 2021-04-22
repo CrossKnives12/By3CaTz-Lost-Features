@@ -1,0 +1,7304 @@
+fileFormatVersion: 2
+guid: b0540ded8013d104da3b87ce65a0bdf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7819768138649439405
+    second: Day Sky_0
+  - first:
+      213: -1442767845873058864
+    second: Day Sky_1
+  - first:
+      213: -1593843709384907556
+    second: Day Sky_2
+  - first:
+      213: -348377423915205001
+    second: Day Sky_3
+  - first:
+      213: -2912711651958968659
+    second: Day Sky_4
+  - first:
+      213: 8227505496880972380
+    second: Day Sky_5
+  - first:
+      213: -6657294633732002443
+    second: Day Sky_6
+  - first:
+      213: -8882806639517158608
+    second: Day Sky_7
+  - first:
+      213: 4339898572458528350
+    second: Day Sky_8
+  - first:
+      213: -4079999213595503541
+    second: Day Sky_9
+  - first:
+      213: 9011597836974658886
+    second: Day Sky_10
+  - first:
+      213: -4135280675553784134
+    second: Day Sky_11
+  - first:
+      213: 5126923998472893406
+    second: Day Sky_12
+  - first:
+      213: -3460186366949824480
+    second: Day Sky_13
+  - first:
+      213: 2025474728360097040
+    second: Day Sky_14
+  - first:
+      213: -6223572116143732697
+    second: Day Sky_15
+  - first:
+      213: -7734340374866500994
+    second: Day Sky_16
+  - first:
+      213: -4181443990275704122
+    second: Day Sky_17
+  - first:
+      213: -1313124013504490463
+    second: Day Sky_18
+  - first:
+      213: -3938171506648275185
+    second: Day Sky_19
+  - first:
+      213: 8314132969061377816
+    second: Day Sky_20
+  - first:
+      213: 5962777148890209649
+    second: Day Sky_21
+  - first:
+      213: -5313522247784687071
+    second: Day Sky_22
+  - first:
+      213: -6384195407041824362
+    second: Day Sky_23
+  - first:
+      213: 5442679370266094107
+    second: Day Sky_24
+  - first:
+      213: 8747958101720729873
+    second: Day Sky_25
+  - first:
+      213: 2212322966530548205
+    second: Day Sky_26
+  - first:
+      213: -6675151251799461739
+    second: Day Sky_27
+  - first:
+      213: 5134284794131188623
+    second: Day Sky_28
+  - first:
+      213: 6609617538271977676
+    second: Day Sky_29
+  - first:
+      213: 6350077020085858551
+    second: Day Sky_30
+  - first:
+      213: 5811928205879392120
+    second: Day Sky_31
+  - first:
+      213: 2826590282906853741
+    second: Day Sky_32
+  - first:
+      213: 4394290434695002077
+    second: Day Sky_33
+  - first:
+      213: -9139565416054030896
+    second: Day Sky_34
+  - first:
+      213: 4535621125271910451
+    second: Day Sky_35
+  - first:
+      213: 4750480927116333113
+    second: Day Sky_36
+  - first:
+      213: -799878831905247495
+    second: Day Sky_37
+  - first:
+      213: -1117508791102248080
+    second: Day Sky_38
+  - first:
+      213: -5649207439573698862
+    second: Day Sky_39
+  - first:
+      213: -8074064275921759608
+    second: Day Sky_40
+  - first:
+      213: -7964464613773233569
+    second: Day Sky_41
+  - first:
+      213: 6076401098671991596
+    second: Day Sky_42
+  - first:
+      213: -3197046439965740516
+    second: Day Sky_43
+  - first:
+      213: 8312202469668490417
+    second: Day Sky_44
+  - first:
+      213: -7818435729623215874
+    second: Day Sky_45
+  - first:
+      213: 5062751714295940275
+    second: Day Sky_46
+  - first:
+      213: 5800834015559666743
+    second: Day Sky_47
+  - first:
+      213: 3703953869501146100
+    second: Day Sky_48
+  - first:
+      213: 7921978690795270821
+    second: Day Sky_49
+  - first:
+      213: -3942091165141212563
+    second: Day Sky_50
+  - first:
+      213: 2350067165900304507
+    second: Day Sky_51
+  - first:
+      213: 5012122138028120598
+    second: Day Sky_52
+  - first:
+      213: -7519470875878330407
+    second: Day Sky_53
+  - first:
+      213: -7468406971982923101
+    second: Day Sky_54
+  - first:
+      213: -6421903513230591852
+    second: Day Sky_55
+  - first:
+      213: -4243108666931875680
+    second: Day Sky_56
+  - first:
+      213: 7641389352325661711
+    second: Day Sky_57
+  - first:
+      213: 2913192667486501284
+    second: Day Sky_58
+  - first:
+      213: -7846966280661761065
+    second: Day Sky_59
+  - first:
+      213: 8951973870239759045
+    second: Day Sky_60
+  - first:
+      213: -6374360105991194703
+    second: Day Sky_61
+  - first:
+      213: 7995794007590299280
+    second: Day Sky_62
+  - first:
+      213: -167495194819504824
+    second: Day Sky_63
+  - first:
+      213: 3830712658785666768
+    second: Day Sky_64
+  - first:
+      213: -6536245109075671106
+    second: Day Sky_65
+  - first:
+      213: -8518226390637140530
+    second: Day Sky_66
+  - first:
+      213: -7445164610527663049
+    second: Day Sky_67
+  - first:
+      213: -307293947968953267
+    second: Day Sky_68
+  - first:
+      213: -6141566324773393452
+    second: Day Sky_69
+  - first:
+      213: 6280894196072880856
+    second: Day Sky_70
+  - first:
+      213: 894441132551510082
+    second: Day Sky_71
+  - first:
+      213: 7500888335918579963
+    second: Day Sky_72
+  - first:
+      213: 5657636857382274806
+    second: Day Sky_73
+  - first:
+      213: -82619478311340661
+    second: Day Sky_74
+  - first:
+      213: 157207151172726069
+    second: Day Sky_75
+  - first:
+      213: 4263741646444126101
+    second: Day Sky_76
+  - first:
+      213: 5671651135597065199
+    second: Day Sky_77
+  - first:
+      213: -463404435210747124
+    second: Day Sky_78
+  - first:
+      213: 1227718255446637330
+    second: Day Sky_79
+  - first:
+      213: 5915583016675613833
+    second: Day Sky_80
+  - first:
+      213: -4846854892200965801
+    second: Day Sky_81
+  - first:
+      213: -5378189164035259999
+    second: Day Sky_82
+  - first:
+      213: 7999724468065393398
+    second: Day Sky_83
+  - first:
+      213: -431167144257076927
+    second: Day Sky_84
+  - first:
+      213: -797219892215704172
+    second: Day Sky_85
+  - first:
+      213: -7404448487254924071
+    second: Day Sky_86
+  - first:
+      213: -9058049225505813724
+    second: Day Sky_87
+  - first:
+      213: 6602756393655903223
+    second: Day Sky_88
+  - first:
+      213: 8091461399121579369
+    second: Day Sky_89
+  - first:
+      213: -3549577651868557713
+    second: Day Sky_90
+  - first:
+      213: 8650857948261478352
+    second: Day Sky_91
+  - first:
+      213: -500582824624591243
+    second: Day Sky_92
+  - first:
+      213: -7821503253339941484
+    second: Day Sky_93
+  - first:
+      213: -6030719270595889396
+    second: Day Sky_94
+  - first:
+      213: 1984526647922185739
+    second: Day Sky_95
+  - first:
+      213: -1802280075856387861
+    second: Day Sky_96
+  - first:
+      213: 3192233577586001699
+    second: Day Sky_97
+  - first:
+      213: -3983208910881075025
+    second: Day Sky_98
+  - first:
+      213: 3295365785556516615
+    second: Day Sky_99
+  - first:
+      213: 2090427459198311367
+    second: Day Sky_100
+  - first:
+      213: 6788362409246320444
+    second: Day Sky_101
+  - first:
+      213: -7934544247038352092
+    second: Day Sky_102
+  - first:
+      213: -8381666608496530364
+    second: Day Sky_103
+  - first:
+      213: 302767259930543530
+    second: Day Sky_104
+  - first:
+      213: -5935614382579589996
+    second: Day Sky_105
+  - first:
+      213: -8588010156180200874
+    second: Day Sky_106
+  - first:
+      213: 314552552126115701
+    second: Day Sky_107
+  - first:
+      213: -3841379756975039831
+    second: Day Sky_108
+  - first:
+      213: 1316502913827818856
+    second: Day Sky_109
+  - first:
+      213: -1251533037073082637
+    second: Day Sky_110
+  - first:
+      213: -7380044428433805996
+    second: Day Sky_111
+  - first:
+      213: 4789027879916624483
+    second: Day Sky_112
+  - first:
+      213: -2391037358179759243
+    second: Day Sky_113
+  - first:
+      213: 3159668737228307579
+    second: Day Sky_114
+  - first:
+      213: 6905066483914967806
+    second: Day Sky_115
+  - first:
+      213: -8181996758999662034
+    second: Day Sky_116
+  - first:
+      213: 7808860765907012036
+    second: Day Sky_117
+  - first:
+      213: 2952658431358373218
+    second: Day Sky_118
+  - first:
+      213: -4348104301229612934
+    second: Day Sky_119
+  - first:
+      213: 6323943112940891548
+    second: Day Sky_120
+  - first:
+      213: -6767292774156937606
+    second: Day Sky_121
+  - first:
+      213: 3722948081566841243
+    second: Day Sky_122
+  - first:
+      213: 8938484418831731109
+    second: Day Sky_123
+  - first:
+      213: 8513909686210739486
+    second: Day Sky_124
+  - first:
+      213: 2001166646720525434
+    second: Day Sky_125
+  - first:
+      213: 5045028595770244043
+    second: Day Sky_126
+  - first:
+      213: 4456433661194980714
+    second: Day Sky_127
+  - first:
+      213: 4672239145042531840
+    second: Day Sky_128
+  - first:
+      213: -8555229462567677353
+    second: Day Sky_129
+  - first:
+      213: -394861719810989342
+    second: Day Sky_130
+  - first:
+      213: -7892410332888616120
+    second: Day Sky_131
+  - first:
+      213: -8036615240143448664
+    second: Day Sky_132
+  - first:
+      213: -5901561273713092517
+    second: Day Sky_133
+  - first:
+      213: 7089143448293421601
+    second: Day Sky_134
+  - first:
+      213: -5122418252281033923
+    second: Day Sky_135
+  - first:
+      213: 6980085479236515522
+    second: Day Sky_136
+  - first:
+      213: -8576126492048754384
+    second: Day Sky_137
+  - first:
+      213: 7512411179381550435
+    second: Day Sky_138
+  - first:
+      213: -9120665348901049207
+    second: Day Sky_139
+  - first:
+      213: 5614313264467761907
+    second: Day Sky_140
+  - first:
+      213: -4090000968431457777
+    second: Day Sky_141
+  - first:
+      213: -6605550361119911106
+    second: Day Sky_142
+  - first:
+      213: -7144917759320863918
+    second: Day Sky_143
+  - first:
+      213: 3364460323982115468
+    second: Day Sky_144
+  - first:
+      213: 884804793822292452
+    second: Day Sky_145
+  - first:
+      213: -5853778545553029780
+    second: Day Sky_146
+  - first:
+      213: -8791170025257175293
+    second: Day Sky_147
+  - first:
+      213: 233099899649125877
+    second: Day Sky_148
+  - first:
+      213: 8661470402156411956
+    second: Day Sky_149
+  - first:
+      213: -2794234558286451677
+    second: Day Sky_150
+  - first:
+      213: 2226131083217755444
+    second: Day Sky_151
+  - first:
+      213: 3302904206462276857
+    second: Day Sky_152
+  - first:
+      213: 2290553970210626267
+    second: Day Sky_153
+  - first:
+      213: 565498337326487440
+    second: Day Sky_154
+  - first:
+      213: 6032163785478106971
+    second: Day Sky_155
+  - first:
+      213: -4193706078763734307
+    second: Day Sky_156
+  - first:
+      213: 8340853902014700129
+    second: Day Sky_157
+  - first:
+      213: 8632067484898009205
+    second: Day Sky_158
+  - first:
+      213: -1281857376140910113
+    second: Day Sky_159
+  - first:
+      213: 7421305998539207630
+    second: Day Sky_160
+  - first:
+      213: -435264505447860838
+    second: Day Sky_161
+  - first:
+      213: -3534691712184078825
+    second: Day Sky_162
+  - first:
+      213: -1660261859808837249
+    second: Day Sky_163
+  - first:
+      213: -5937677950653448050
+    second: Day Sky_164
+  - first:
+      213: 2107711382167793217
+    second: Day Sky_165
+  - first:
+      213: 2095221978826003946
+    second: Day Sky_166
+  - first:
+      213: 1240774515749682693
+    second: Day Sky_167
+  - first:
+      213: -1899503756482512544
+    second: Day Sky_168
+  - first:
+      213: -7601263504875336980
+    second: Day Sky_169
+  - first:
+      213: 2406258636252269872
+    second: Day Sky_170
+  - first:
+      213: 2927550710200098017
+    second: Day Sky_171
+  - first:
+      213: 3226670531874279881
+    second: Day Sky_172
+  - first:
+      213: 2983309464033633471
+    second: Day Sky_173
+  - first:
+      213: 5805223602575137591
+    second: Day Sky_174
+  - first:
+      213: 2100252198122161963
+    second: Day Sky_175
+  - first:
+      213: 2147922587848719439
+    second: Day Sky_176
+  - first:
+      213: 2289139492766418787
+    second: Day Sky_177
+  - first:
+      213: -1183583806467868464
+    second: Day Sky_178
+  - first:
+      213: 4745082109415688667
+    second: Day Sky_179
+  - first:
+      213: 3051343778318975853
+    second: Day Sky_180
+  - first:
+      213: -1748743836103227052
+    second: Day Sky_181
+  - first:
+      213: 2850162784801980088
+    second: Day Sky_182
+  - first:
+      213: 902957291186793559
+    second: Day Sky_183
+  - first:
+      213: 8700449521837558137
+    second: Day Sky_184
+  - first:
+      213: -1464778418735696255
+    second: Day Sky_185
+  - first:
+      213: 4076244389648391561
+    second: Day Sky_186
+  - first:
+      213: -1450179187385751495
+    second: Day Sky_187
+  - first:
+      213: 3713867475232514630
+    second: Day Sky_188
+  - first:
+      213: -5925315801648822098
+    second: Day Sky_189
+  - first:
+      213: -9072890243224714501
+    second: Day Sky_190
+  - first:
+      213: -7109609227205909817
+    second: Day Sky_191
+  - first:
+      213: 7664234520845869953
+    second: Day Sky_192
+  - first:
+      213: 4391529214029337117
+    second: Day Sky_193
+  - first:
+      213: -6936125240254980654
+    second: Day Sky_194
+  - first:
+      213: 6755235724648169158
+    second: Day Sky_195
+  - first:
+      213: 3921408246617882606
+    second: Day Sky_196
+  - first:
+      213: 6427201604635501038
+    second: Day Sky_197
+  - first:
+      213: 2727035191607052781
+    second: Day Sky_198
+  - first:
+      213: 2375391873502785783
+    second: Day Sky_199
+  - first:
+      213: 7283992905198019821
+    second: Day Sky_200
+  - first:
+      213: 8797167389375394547
+    second: Day Sky_201
+  - first:
+      213: -6629347343707633504
+    second: Day Sky_202
+  - first:
+      213: 9123762953111332499
+    second: Day Sky_203
+  - first:
+      213: -542069561312203996
+    second: Day Sky_204
+  - first:
+      213: -4716692729361841496
+    second: Day Sky_205
+  - first:
+      213: 6675134565567080752
+    second: Day Sky_206
+  - first:
+      213: 8485746196447926941
+    second: Day Sky_207
+  - first:
+      213: 8175875680259921631
+    second: Day Sky_208
+  - first:
+      213: 7482825584201981686
+    second: Day Sky_209
+  - first:
+      213: -8490287546698942055
+    second: Day Sky_210
+  - first:
+      213: 8034198018308660221
+    second: Day Sky_211
+  - first:
+      213: 3744879256864764229
+    second: Day Sky_212
+  - first:
+      213: -911468244818572377
+    second: Day Sky_213
+  - first:
+      213: 4780519311044068152
+    second: Day Sky_214
+  - first:
+      213: 6477501561012632896
+    second: Day Sky_215
+  - first:
+      213: 4495583555732790959
+    second: Day Sky_216
+  - first:
+      213: -2064435686906390242
+    second: Day Sky_217
+  - first:
+      213: 5478636231460138797
+    second: Day Sky_218
+  - first:
+      213: -5925325296452223785
+    second: Day Sky_219
+  - first:
+      213: -4096888141691227042
+    second: Day Sky_220
+  - first:
+      213: 7925985428123692956
+    second: Day Sky_221
+  - first:
+      213: 963679913274396308
+    second: Day Sky_222
+  - first:
+      213: 5009707691807362889
+    second: Day Sky_223
+  - first:
+      213: -5693062511734332021
+    second: Day Sky_224
+  - first:
+      213: -6402928345210396349
+    second: Day Sky_225
+  - first:
+      213: -3710845546472894094
+    second: Day Sky_226
+  - first:
+      213: -4244463784908057061
+    second: Day Sky_227
+  - first:
+      213: 1089520128387906424
+    second: Day Sky_228
+  - first:
+      213: 2943246901764765497
+    second: Day Sky_229
+  - first:
+      213: 7456969629559755117
+    second: Day Sky_230
+  - first:
+      213: -3715479648895852882
+    second: Day Sky_231
+  - first:
+      213: -8398806220762194079
+    second: Day Sky_232
+  - first:
+      213: 6887366139548384143
+    second: Day Sky_233
+  - first:
+      213: 6376814713878718847
+    second: Day Sky_234
+  - first:
+      213: -1938100205118302413
+    second: Day Sky_235
+  - first:
+      213: -3202908392735357798
+    second: Day Sky_236
+  - first:
+      213: -6221983720850790629
+    second: Day Sky_237
+  - first:
+      213: 2044020920716006804
+    second: Day Sky_238
+  - first:
+      213: 2524674479605818667
+    second: Day Sky_239
+  - first:
+      213: -8260079011070199526
+    second: Day Sky_240
+  - first:
+      213: -1242727482607867342
+    second: Day Sky_241
+  - first:
+      213: 4418702385807600526
+    second: Day Sky_242
+  - first:
+      213: -6079356065506447368
+    second: Day Sky_243
+  - first:
+      213: -5796125560861547920
+    second: Day Sky_244
+  - first:
+      213: -7778834488726647972
+    second: Day Sky_245
+  - first:
+      213: 1528098928657534117
+    second: Day Sky_246
+  - first:
+      213: -7917392681243454889
+    second: Day Sky_247
+  - first:
+      213: -1246312339182415488
+    second: Day Sky_248
+  - first:
+      213: 748577522375486068
+    second: Day Sky_249
+  - first:
+      213: -3065707661071058359
+    second: Day Sky_250
+  - first:
+      213: 5997153737758569023
+    second: Day Sky_251
+  - first:
+      213: -8729335449479313380
+    second: Day Sky_252
+  - first:
+      213: 7589873921801082886
+    second: Day Sky_253
+  - first:
+      213: 5786280328114074704
+    second: Day Sky_254
+  - first:
+      213: -7172574524382124059
+    second: Day Sky_255
+  - first:
+      213: -6176860858324792483
+    second: Day Sky_256
+  - first:
+      213: -7580378873269460911
+    second: Day Sky_257
+  - first:
+      213: -3149377859491639917
+    second: Day Sky_258
+  - first:
+      213: 7189583664822946771
+    second: Day Sky_259
+  - first:
+      213: 4469179164228600669
+    second: Day Sky_260
+  - first:
+      213: -1152732290617674178
+    second: Day Sky_261
+  - first:
+      213: 5046336593368765469
+    second: Day Sky_262
+  - first:
+      213: -8071317787979250787
+    second: Day Sky_263
+  - first:
+      213: 4774317109378757136
+    second: Day Sky_264
+  - first:
+      213: 1693077531410611565
+    second: Day Sky_265
+  - first:
+      213: -2833049411333152588
+    second: Day Sky_266
+  - first:
+      213: -4923851604083770487
+    second: Day Sky_267
+  - first:
+      213: 7142773693382043450
+    second: Day Sky_268
+  - first:
+      213: 3764855646870559597
+    second: Day Sky_269
+  - first:
+      213: 1172555326800904105
+    second: Day Sky_270
+  - first:
+      213: 5538050474524134827
+    second: Day Sky_271
+  - first:
+      213: -5849456726899999141
+    second: Day Sky_272
+  - first:
+      213: -5283245615969336473
+    second: Day Sky_273
+  - first:
+      213: -7854767695724502536
+    second: Day Sky_274
+  - first:
+      213: -6832098500789244343
+    second: Day Sky_275
+  - first:
+      213: 2152250493770103471
+    second: Day Sky_276
+  - first:
+      213: 4656247372363262169
+    second: Day Sky_277
+  - first:
+      213: -4659884132277096406
+    second: Day Sky_278
+  - first:
+      213: -1492720250777346635
+    second: Day Sky_279
+  - first:
+      213: -3980607503106756118
+    second: Day Sky_280
+  - first:
+      213: 4364006053792403541
+    second: Day Sky_281
+  - first:
+      213: -7176521873656809673
+    second: Day Sky_282
+  - first:
+      213: -8142763450260453772
+    second: Day Sky_283
+  - first:
+      213: -3700967439252600096
+    second: Day Sky_284
+  - first:
+      213: -930480431455549181
+    second: Day Sky_285
+  - first:
+      213: 8842678132432402980
+    second: Day Sky_286
+  - first:
+      213: -445293480473886318
+    second: Day Sky_287
+  - first:
+      213: -5853254665368313705
+    second: Day Sky_288
+  - first:
+      213: -6097548533956805464
+    second: Day Sky_289
+  - first:
+      213: 1300783549604947739
+    second: Day Sky_290
+  - first:
+      213: 6843385267987432963
+    second: Day Sky_291
+  - first:
+      213: 5358631269546364409
+    second: Day Sky_292
+  - first:
+      213: 6984447898182387215
+    second: Day Sky_293
+  - first:
+      213: -4268361598704872245
+    second: Day Sky_294
+  - first:
+      213: 8956970458906163745
+    second: Day Sky_295
+  - first:
+      213: -8759601581968263018
+    second: Day Sky_296
+  - first:
+      213: -2202898807719457778
+    second: Day Sky_297
+  - first:
+      213: -2955882828064002003
+    second: Day Sky_298
+  - first:
+      213: -6508984132014675958
+    second: Day Sky_299
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Day Sky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353f1ed0f4a9a7390800000000000000
+      internalID: -7819768138649439405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0db716dc9424afbe0800000000000000
+      internalID: -1442767845873058864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd42f92479781e9e0800000000000000
+      internalID: -1593843709384907556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77eb4c724905a2bf0800000000000000
+      internalID: -348377423915205001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae28db4f28f397d0800000000000000
+      internalID: -2912711651958968659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c520a2188a8fd2270800000000000000
+      internalID: 8227505496880972380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d2a4f6dc98c93a0800000000000000
+      internalID: -6657294633732002443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033391bac6ee9b480800000000000000
+      internalID: -8882806639517158608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e8d9402ca6a3c30800000000000000
+      internalID: 4339898572458528350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4454cdf45ee067c0800000000000000
+      internalID: -4079999213595503541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6459d8bbc70af0d70800000000000000
+      internalID: 9011597836974658886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe441f92288c96c0800000000000000
+      internalID: -4135280675553784134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3f667863e762740800000000000000
+      internalID: 5126923998472893406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0286e4505d2faffc0800000000000000
+      internalID: -3460186366949824480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0153f65b88eeb1c10800000000000000
+      internalID: 2025474728360097040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280a3f522e61a9a0800000000000000
+      internalID: -6223572116143732697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72ee18486a1aa490800000000000000
+      internalID: -7734340374866500994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cabc6758d688f5c0800000000000000
+      internalID: -4181443990275704122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124970dbaa8d6cde0800000000000000
+      internalID: -1313124013504490463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f072aa941edc859c0800000000000000
+      internalID: -3938171506648275185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817644c92ebb16370800000000000000
+      internalID: 8314132969061377816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dda6a893a00c250800000000000000
+      internalID: 5962777148890209649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a98aafaa39246b0800000000000000
+      internalID: -5313522247784687071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699779a2a18c667a0800000000000000
+      internalID: -6384195407041824362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1aae0bfc08488b40800000000000000
+      internalID: 5442679370266094107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119801b7b8df66970800000000000000
+      internalID: 8747958101720729873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de1ed744400c3be10800000000000000
+      internalID: 2212322966530548205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903d7e8d491d53a0800000000000000
+      internalID: -6675151251799461739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8b01e151d4a04740800000000000000
+      internalID: 5134284794131188623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc0a4edb1241abb50800000000000000
+      internalID: 6609617538271977676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0b696d761002850800000000000000
+      internalID: 6350077020085858551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 877b38b09ed18a050800000000000000
+      internalID: 5811928205879392120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61eb3ae2e01a3720800000000000000
+      internalID: 2826590282906853741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd774ef4ed7abfc30800000000000000
+      internalID: 4394290434695002077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd77a67dadb92180800000000000000
+      internalID: -9139565416054030896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 338f697f163c1fe30800000000000000
+      internalID: 4535621125271910451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 930990deb391de140800000000000000
+      internalID: 4750480927116333113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9feeee8b07246e4f0800000000000000
+      internalID: -799878831905247495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b69f0ecafcd70f0800000000000000
+      internalID: -1117508791102248080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d637b5b3cbf991b0800000000000000
+      internalID: -5649207439573698862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882130cb15923ff80800000000000000
+      internalID: -8074064275921759608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52b0ed91a9887190800000000000000
+      internalID: -7964464613773233569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b2327ea96b35450800000000000000
+      internalID: 6076401098671991596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c123a67933fc1a3d0800000000000000
+      internalID: -3197046439965740516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc07b13b10ea5370800000000000000
+      internalID: 8312202469668490417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef01694b0265f7390800000000000000
+      internalID: -7818435729623215874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b40c9c4cd1824640800000000000000
+      internalID: 5062751714295940275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ccf629dc3b08050800000000000000
+      internalID: 5800834015559666743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3ac008b66176330800000000000000
+      internalID: 3703953869501146100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a2f01795a580fd60800000000000000
+      internalID: 7921978690795270821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d626d8da8f0ea49c0800000000000000
+      internalID: -3942091165141212563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b70fbcdd2ad1d9020800000000000000
+      internalID: 2350067165900304507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a99087782ae8540800000000000000
+      internalID: 5012122138028120598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df6068041975a790800000000000000
+      internalID: -7519470875878330407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aa38e4ad63ea5890800000000000000
+      internalID: -7468406971982923101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498be0887c0d0e6a0800000000000000
+      internalID: -6421903513230591852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0f42cf5237d15c0800000000000000
+      internalID: -4243108666931875680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04c2df412bab0a60800000000000000
+      internalID: 7641389352325661711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a93ecbdb4dbd6820800000000000000
+      internalID: 2913192667486501284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d300b42eb9f91390800000000000000
+      internalID: -7846966280661761065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca383e2ecccb3c70800000000000000
+      internalID: 8951973870239759045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b739f3a149b987a0800000000000000
+      internalID: -6374360105991194703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096ed9f4944c6fe60800000000000000
+      internalID: 7995794007590299280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 845d23bf100fcadf0800000000000000
+      internalID: -167495194819504824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d6038ffddc692530800000000000000
+      internalID: 3830712658785666768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb709ac24b79a45a0800000000000000
+      internalID: -6536245109075671106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec527bdaa3e29c980800000000000000
+      internalID: -8518226390637140530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c603f9b367da890800000000000000
+      internalID: -7445164610527663049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44eead48c54cbbf0800000000000000
+      internalID: -307293947968953267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db616f87f5c4caa0800000000000000
+      internalID: -6141566324773393452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da9cb46ef73a2750800000000000000
+      internalID: 6280894196072880856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2481b3a9871b96c00800000000000000
+      internalID: 894441132551510082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf04c4a3332881860800000000000000
+      internalID: 7500888335918579963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f68d601fb6f38e40800000000000000
+      internalID: 5657636857382274806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8579bfa50a7adef0800000000000000
+      internalID: -82619478311340661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2dc132138e2200800000000000000
+      internalID: 157207151172726069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f575aef6adb2b30800000000000000
+      internalID: 4263741646444126101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe3343b78a0c5be40800000000000000
+      internalID: 5671651135597065199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c034ce31f18a199f0800000000000000
+      internalID: -463404435210747124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21bb824af3bb90110800000000000000
+      internalID: 1227718255446637330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98c984c596f581250800000000000000
+      internalID: 5915583016675613833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7594f70c7238cbcb0800000000000000
+      internalID: -4846854892200965801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1c2de3375dc55b0800000000000000
+      internalID: -5378189164035259999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fad904f40bb40f60800000000000000
+      internalID: 7999724468065393398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 141ccb744cf240af0800000000000000
+      internalID: -431167144257076927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959b9c5bb4bfe4f0800000000000000
+      internalID: -797219892215704172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4ed7fc45d1e3990800000000000000
+      internalID: -7404448487254924071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b49b398385b4280800000000000000
+      internalID: -9058049225505813724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3ac4605f3b1ab50800000000000000
+      internalID: 6602756393655903223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96d4d68a545aa4070800000000000000
+      internalID: 8091461399121579369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e95bd9eed5dbec0800000000000000
+      internalID: -3549577651868557713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0df6d7048750e0870800000000000000
+      internalID: 8650857948261478352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57ee69db2929d09f0800000000000000
+      internalID: -500582824624591243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4955c1f2b30747390800000000000000
+      internalID: -7821503253339941484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07770886c49e4ca0800000000000000
+      internalID: -6030719270595889396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06d2b8c8747a8b10800000000000000
+      internalID: 1984526647922185739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0e0d4e1d30df6e0800000000000000
+      internalID: -1802280075856387861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327861096871d4c20800000000000000
+      internalID: 3192233577586001699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_98
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa053c8799cc8b8c0800000000000000
+      internalID: -3983208910881075025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f721de8bd7bbd20800000000000000
+      internalID: 3295365785556516615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbdc36d2b0b20d10800000000000000
+      internalID: 2090427459198311367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c37edb915ab153e50800000000000000
+      internalID: 6788362409246320444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425e8acdb06d2e190800000000000000
+      internalID: -7934544247038352092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44cafc6a0a65eab80800000000000000
+      internalID: -8381666608496530364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa547c10835a33400800000000000000
+      internalID: 302767259930543530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cd4a2da2670ada0800000000000000
+      internalID: -5935614382579589996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652ae61a34241d880800000000000000
+      internalID: -8588010156180200874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f6bac21e38d5400800000000000000
+      internalID: 314552552126115701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa502aa67da0bac0800000000000000
+      internalID: -3841379756975039831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d497ccc68254210800000000000000
+      internalID: 1316502913827818856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6d79c6559a1aee0800000000000000
+      internalID: -1251533037073082637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d2a9881b0d49990800000000000000
+      internalID: -7380044428433805996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a5fd1cb7b067240800000000000000
+      internalID: 4789027879916624483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bc105e03451ded0800000000000000
+      internalID: -2391037358179759243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c7662d9f569db20800000000000000
+      internalID: 3159668737228307579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa053ce169b3df50800000000000000
+      internalID: 6905066483914967806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e228d6a3c45b37e80800000000000000
+      internalID: -8181996758999662034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c94f545e75ae5c60800000000000000
+      internalID: 7808860765907012036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d8d201333f9f820800000000000000
+      internalID: 2952658431358373218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a706cdedc2e68a3c0800000000000000
+      internalID: -4348104301229612934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9dae9a61c823c750800000000000000
+      internalID: 6323943112940891548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a76de49931fb512a0800000000000000
+      internalID: -6767292774156937606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b99730f1e819aa330800000000000000
+      internalID: 3722948081566841243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a944d68830eb0c70800000000000000
+      internalID: 8938484418831731109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d395040cb772670800000000000000
+      internalID: 8513909686210739486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74f22a667295cb10800000000000000
+      internalID: 2001166646720525434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcbb29437ca830640800000000000000
+      internalID: 5045028595770244043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6dce9cbdce68dd30800000000000000
+      internalID: 4456433661194980714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0065fe17fb027d040800000000000000
+      internalID: 4672239145042531840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75292bf9128b54980800000000000000
+      internalID: -8555229462567677353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e2244f9b5b258af0800000000000000
+      internalID: -394861719810989342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8433d863e96887290800000000000000
+      internalID: -7892410332888616120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a552c6d405387090800000000000000
+      internalID: -8036615240143448664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5811241a41791ea0800000000000000
+      internalID: -5901561273713092517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12231550862b16260800000000000000
+      internalID: 7089143448293421601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3bcfc14db389e8b0800000000000000
+      internalID: -5122418252281033923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_136
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c631c3e2ce3ed060800000000000000
+      internalID: 6980085479236515522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039fd9cc46a7bf880800000000000000
+      internalID: -8576126492048754384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36de5b94a22714860800000000000000
+      internalID: 7512411179381550435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ce9834033ec6180800000000000000
+      internalID: -9120665348901049207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa5d5a0b2c0aed40800000000000000
+      internalID: 5614313264467761907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0aa3a9f9c56d37c0800000000000000
+      internalID: -4090000968431457777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e339e7bb1fe5454a0800000000000000
+      internalID: -6605550361119911106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bcc4e372728dc90800000000000000
+      internalID: -7144917759320863918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_144
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8289d7c6d6f0be20800000000000000
+      internalID: 3364460323982115468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_145
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e92757a545774c00800000000000000
+      internalID: 884804793822292452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c65428e6d6333cea0800000000000000
+      internalID: -5853778545553029780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_147
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 307fb7c807d7ff580800000000000000
+      internalID: -8791170025257175293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fde3cbaf132c3300800000000000000
+      internalID: 233099899649125877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43cb719b079b33870800000000000000
+      internalID: 8661470402156411956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c27364972e839d0800000000000000
+      internalID: -2794234558286451677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43d56a6fc6ec4ee10800000000000000
+      internalID: 2226131083217755444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f4d35150e546dd20800000000000000
+      internalID: 3302904206462276857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_153
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdad34533bea9cf10800000000000000
+      internalID: 2290553970210626267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0975b6dddbd09d700800000000000000
+      internalID: 565498337326487440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5fe56cc00d86b350800000000000000
+      internalID: 6032163785478106971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda24e26a86fcc5c0800000000000000
+      internalID: -4193706078763734307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16a5401ae6aa0c370800000000000000
+      internalID: 8340853902014700129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 570ab8294a34bc770800000000000000
+      internalID: 8632067484898009205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1286a028de53ee0800000000000000
+      internalID: -1281857376140910113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3b7646c76cdf660800000000000000
+      internalID: 7421305998539207630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_161
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a95b1790d31a5f9f0800000000000000
+      internalID: -435264505447860838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e20c88d9042fec0800000000000000
+      internalID: -3534691712184078825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_163
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7107fb82a095f8e0800000000000000
+      internalID: -1660261859808837249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80c1a0fc51299da0800000000000000
+      internalID: -5937677950653448050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14ea82fb558104d10800000000000000
+      internalID: 2107711382167793217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae5d38de949b31d10800000000000000
+      internalID: 2095221978826003946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50efd9129dd183110800000000000000
+      internalID: 1240774515749682693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 069f651c56b93a5e0800000000000000
+      internalID: -1899503756482512544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_169
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceac3c39d13e28690800000000000000
+      internalID: -7601263504875336980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d48831b7fb46120800000000000000
+      internalID: 2406258636252269872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_171
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ec5b6f2cdfb0a820800000000000000
+      internalID: 2927550710200098017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_172
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c1569bc0cf67cc20800000000000000
+      internalID: 3226670531874279881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb429cab628d66920800000000000000
+      internalID: 2983309464033633471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73b5431fb1c409050800000000000000
+      internalID: 5805223602575137591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b270ecf1f38952d10800000000000000
+      internalID: 2100252198122161963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4cb2c5a634fecd10800000000000000
+      internalID: 2147922587848719439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36709a38d38a4cf10800000000000000
+      internalID: 2289139492766418787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_178
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8f3958cc0139fe0800000000000000
+      internalID: -1183583806467868464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd988c9b90be9d140800000000000000
+      internalID: 4745082109415688667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_180
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d630d4aeffc885a20800000000000000
+      internalID: 3051343778318975853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_181
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459c9ed0fb63bb7e0800000000000000
+      internalID: -1748743836103227052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bef824b3ffcd8720800000000000000
+      internalID: 2850162784801980088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ca98c4fd2f78c00800000000000000
+      internalID: 902957291186793559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_184
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 979485f3eb43eb870800000000000000
+      internalID: 8700449521837558137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_185
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 186b994f9cf0cabe0800000000000000
+      internalID: -1464778418735696255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_186
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ddbaeecaab19830800000000000000
+      internalID: 4076244389648391561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938253366bdefdbe0800000000000000
+      internalID: -1450179187385751495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_188
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6426c14bace4a8330800000000000000
+      internalID: 3713867475232514630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_189
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea886bc0cac05cda0800000000000000
+      internalID: -5925315801648822098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2cb7ed46e961280800000000000000
+      internalID: -9072890243224714501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c26d808318955d90800000000000000
+      internalID: -7109609227205909817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_192
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183ed4a90b4dc5a60800000000000000
+      internalID: 7664234520845869953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_193
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1218f68d88d1fc30800000000000000
+      internalID: 4391529214029337117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_194
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dd1bf8d7deedbf90800000000000000
+      internalID: -6936125240254980654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_195
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cebeadc91b6fbd50800000000000000
+      internalID: 6755235724648169158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef32f61604ab6630800000000000000
+      internalID: 3921408246617882606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_197
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1ae108ec1023950800000000000000
+      internalID: 6427201604635501038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de94abdee0068d520800000000000000
+      internalID: 2727035191607052781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0bb76d25617f020800000000000000
+      internalID: 2375391873502785783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de42bcc74f0f51560800000000000000
+      internalID: 7283992905198019821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f2fe599121d51a70800000000000000
+      internalID: 8797167389375394547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a880a5f6b3dff3a0800000000000000
+      internalID: -6629347343707633504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396e11be01e1e9e70800000000000000
+      internalID: 9123762953111332499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b2f622b9e2a78f0800000000000000
+      internalID: -542069561312203996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a248b7e3f0fa8eb0800000000000000
+      internalID: -4716692729361841496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 039ae806587d2ac50800000000000000
+      internalID: 6675134565567080752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9a966dc43d63c570800000000000000
+      internalID: 8485746196447926941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd6d5a11d9b867170800000000000000
+      internalID: 8175875680259921631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe509e193658d760800000000000000
+      internalID: 7482825584201981686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9993612b5707c2a80800000000000000
+      internalID: -8490287546698942055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_211
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5f68d7843f7f60800000000000000
+      internalID: 8034198018308660221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5413728c7db78f330800000000000000
+      internalID: 3744879256864764229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab4a83e570d953f0800000000000000
+      internalID: -911468244818572377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_214
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8334da03cf0d75240800000000000000
+      internalID: 4780519311044068152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d3238b955b4e950800000000000000
+      internalID: 6477501561012632896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5a81ec65836e30800000000000000
+      internalID: 4495583555732790959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e191e4c3ea6a953e0800000000000000
+      internalID: -2064435686906390242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_218
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f24cd10a6080c40800000000000000
+      internalID: 5478636231460138797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc345e590405cda0800000000000000
+      internalID: -5925325296452223785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54fbfdf0fde427c0800000000000000
+      internalID: -4096888141691227042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_221
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9f2c32d0c1cefd60800000000000000
+      internalID: 7925985428123692956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_222
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49e46eb76cdaf5d00800000000000000
+      internalID: 963679913274396308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_223
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f48b66a9e068540800000000000000
+      internalID: 5009707691807362889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b856bf70fcd2ef0b0800000000000000
+      internalID: -5693062511734332021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341647d189a3427a0800000000000000
+      internalID: -6402928345210396349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_226
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271942ae2ad608cc0800000000000000
+      internalID: -3710845546472894094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_227
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b169b8efca2a815c0800000000000000
+      internalID: -4244463784908057061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_228
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bf234c8c0ce1f00800000000000000
+      internalID: 1089520128387906424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93735f1967388d820800000000000000
+      internalID: 2943246901764765497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_230
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6119ce8e5a7c7760800000000000000
+      internalID: 7456969629559755117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_231
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eae9e5dd1f6ff6cc0800000000000000
+      internalID: -3715479648895852882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_232
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fd022bd32717b80800000000000000
+      internalID: -8398806220762194079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8bb5d95307d49f50800000000000000
+      internalID: 6887366139548384143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_234
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79a93b423ffe7850800000000000000
+      internalID: 6376814713878718847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_235
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 337dfc6c12c7a15e0800000000000000
+      internalID: -1938100205118302413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_236
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9444ea59cbfc83d0800000000000000
+      internalID: -3202908392735357798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17ec6875c217a9a0800000000000000
+      internalID: -6221983720850790629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4959ebc9232dd5c10800000000000000
+      internalID: 2044020920716006804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_239
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25266a1012790320800000000000000
+      internalID: 2524674479605818667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_240
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a19308837ed4e5d80800000000000000
+      internalID: -8260079011070199526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23aea8650f1f0cee0800000000000000
+      internalID: -1242727482607867342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_242
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bab3a9862625d30800000000000000
+      internalID: 4418702385807600526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_243
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff2f544ed9c1aba0800000000000000
+      internalID: -6079356065506447368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0722947f286009fa0800000000000000
+      internalID: -5796125560861547920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_245
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b04ec1f370c0490800000000000000
+      internalID: -7778834488726647972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_246
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac894021e5e43510800000000000000
+      internalID: 1528098928657534117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_247
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752d437fd45cf1290800000000000000
+      internalID: -7917392681243454889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_248
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08198dfd78534bee0800000000000000
+      internalID: -1246312339182415488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47a680c5a4b736a00800000000000000
+      internalID: 748577522375486068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a7aa4002b6475d0800000000000000
+      internalID: -3065707661071058359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32718adc8b2a3350800000000000000
+      internalID: 5997153737758569023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c188f80a8ab2bd680800000000000000
+      internalID: -8729335449479313380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60854f67e16a45960800000000000000
+      internalID: 7589873921801082886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054f1182d4ffc4050800000000000000
+      internalID: 5786280328114074704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_255
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e7ef25d875e57c90800000000000000
+      internalID: -7172574524382124059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_256
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b498896c1674aa0800000000000000
+      internalID: -6176860858324792483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_257
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 150e5ebc3951dc690800000000000000
+      internalID: -7580378873269460911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d458dd5892b44d0800000000000000
+      internalID: -3149377859491639917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db09b8404886c360800000000000000
+      internalID: 7189583664822946771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d534c6965c6b50e30800000000000000
+      internalID: 4469179164228600669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_261
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e367c90d61ca000f0800000000000000
+      internalID: -1152732290617674178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14dcc02560380640800000000000000
+      internalID: 5046336593368765469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_263
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93843a4c3becff80800000000000000
+      internalID: -8071317787979250787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_264
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01237959d18c14240800000000000000
+      internalID: 4774317109378757136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_265
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6dbce46b050f7710800000000000000
+      internalID: 1693077531410611565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b0ab5e029cfea8d0800000000000000
+      internalID: -2833049411333152588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_267
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b79d3cd07faabb0800000000000000
+      internalID: -4923851604083770487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_268
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37aa0184da302360800000000000000
+      internalID: 7142773693382043450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_269
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6bd75683447f3430800000000000000
+      internalID: 3764855646870559597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_270
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afb5757bd0c54010800000000000000
+      internalID: 1172555326800904105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_271
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badc132909b1bdc40800000000000000
+      internalID: 5538050474524134827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_272
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e3b10491e82dea0800000000000000
+      internalID: -5849456726899999141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_273
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7630207aa142ea6b0800000000000000
+      internalID: -5283245615969336473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_274
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1a027a5624ef290800000000000000
+      internalID: -7854767695724502536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e6afd8c928f21a0800000000000000
+      internalID: -6832098500789244343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_276
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa73d4cb645edd10800000000000000
+      internalID: 2152250493770103471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_277
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d8ee08b0505e9040800000000000000
+      internalID: 4656247372363262169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a20f4212214c45fb0800000000000000
+      internalID: -4659884132277096406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_279
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd526737dac84be0800000000000000
+      internalID: -1492720250777346635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_280
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae1311be09a02c8c0800000000000000
+      internalID: -3980607503106756118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_281
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55053f96260109c30800000000000000
+      internalID: 4364006053792403541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_282
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7377dd5f06fd76c90800000000000000
+      internalID: -7176521873656809673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_283
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4760131c8c71ffe80800000000000000
+      internalID: -8142763450260453772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eacf0af8b583acc0800000000000000
+      internalID: -3700967439252600096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_285
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309c3ac3af44613f0800000000000000
+      internalID: -930480431455549181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_286
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42a7fb239e087ba70800000000000000
+      internalID: 8842678132432402980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918e8350fff1d9f0800000000000000
+      internalID: -445293480473886318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_288
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e2dac4ef05cea0800000000000000
+      internalID: -5853254665368313705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_289
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acfcc02ae7216ba0800000000000000
+      internalID: -6097548533956805464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_290
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17efdb1fbf4d0210800000000000000
+      internalID: 1300783549604947739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_291
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3064887b4a698fe50800000000000000
+      internalID: 6843385267987432963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_292
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd8c979fbead5a40800000000000000
+      internalID: 5358631269546364409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_293
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f068263bb5ebde060800000000000000
+      internalID: 6984447898182387215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_294
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc41740adbbb3c4c0800000000000000
+      internalID: -4268361598704872245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_295
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12af4c22d2d8d4c70800000000000000
+      internalID: 8956970458906163745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_296
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698f4d485c4af6680800000000000000
+      internalID: -8759601581968263018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_297
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c00c1b43bbd61e0800000000000000
+      internalID: -2202898807719457778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_298
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2071939a389af6d0800000000000000
+      internalID: -2955882828064002003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Day Sky_299
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a086c920b617ba5a0800000000000000
+      internalID: -6508984132014675958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

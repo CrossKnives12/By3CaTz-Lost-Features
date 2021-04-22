@@ -1,0 +1,7304 @@
+fileFormatVersion: 2
+guid: 7037398f0c5a3bb4b881b73f8cd1c0e0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 847139876589844431
+    second: Night Sky_0
+  - first:
+      213: -7666836346991260854
+    second: Night Sky_1
+  - first:
+      213: 3513527835110861148
+    second: Night Sky_2
+  - first:
+      213: -8292750444314989371
+    second: Night Sky_3
+  - first:
+      213: 4253371956987961139
+    second: Night Sky_4
+  - first:
+      213: -3405023179474224990
+    second: Night Sky_5
+  - first:
+      213: -1525210537189263808
+    second: Night Sky_6
+  - first:
+      213: -6824410932753110930
+    second: Night Sky_7
+  - first:
+      213: -3598791261987660742
+    second: Night Sky_8
+  - first:
+      213: 5566479909867778209
+    second: Night Sky_9
+  - first:
+      213: -3403101379991804851
+    second: Night Sky_10
+  - first:
+      213: -1805317428161451643
+    second: Night Sky_11
+  - first:
+      213: -4673422463425729747
+    second: Night Sky_12
+  - first:
+      213: 4041290741246696029
+    second: Night Sky_13
+  - first:
+      213: 998532181184327378
+    second: Night Sky_14
+  - first:
+      213: -2280297601080890743
+    second: Night Sky_15
+  - first:
+      213: 215727257866349950
+    second: Night Sky_16
+  - first:
+      213: -8299447246336202536
+    second: Night Sky_17
+  - first:
+      213: -5265419756882658351
+    second: Night Sky_18
+  - first:
+      213: -5328911451977260481
+    second: Night Sky_19
+  - first:
+      213: 5234655805059149769
+    second: Night Sky_20
+  - first:
+      213: -3733069706933460648
+    second: Night Sky_21
+  - first:
+      213: 3411994894867752310
+    second: Night Sky_22
+  - first:
+      213: 5030599810955872394
+    second: Night Sky_23
+  - first:
+      213: -2211354412446691363
+    second: Night Sky_24
+  - first:
+      213: 7190348956161725259
+    second: Night Sky_25
+  - first:
+      213: -1237545012999215392
+    second: Night Sky_26
+  - first:
+      213: -6334563707584892406
+    second: Night Sky_27
+  - first:
+      213: 5404393235037081585
+    second: Night Sky_28
+  - first:
+      213: -5979421243296443629
+    second: Night Sky_29
+  - first:
+      213: 9152371333418483743
+    second: Night Sky_30
+  - first:
+      213: -2563767079167999541
+    second: Night Sky_31
+  - first:
+      213: -3266853695454709877
+    second: Night Sky_32
+  - first:
+      213: -5245032255448192029
+    second: Night Sky_33
+  - first:
+      213: -3895894536392250281
+    second: Night Sky_34
+  - first:
+      213: 6987480593767028389
+    second: Night Sky_35
+  - first:
+      213: -1746299076350142051
+    second: Night Sky_36
+  - first:
+      213: -2543904787207951362
+    second: Night Sky_37
+  - first:
+      213: -695099513679328174
+    second: Night Sky_38
+  - first:
+      213: 6548080909143294641
+    second: Night Sky_39
+  - first:
+      213: 1255700973851597386
+    second: Night Sky_40
+  - first:
+      213: 5038886525194816454
+    second: Night Sky_41
+  - first:
+      213: -9041715162899880998
+    second: Night Sky_42
+  - first:
+      213: -7588655312659143647
+    second: Night Sky_43
+  - first:
+      213: -7304814019664497379
+    second: Night Sky_44
+  - first:
+      213: -6601801580530612717
+    second: Night Sky_45
+  - first:
+      213: -8113024473079387108
+    second: Night Sky_46
+  - first:
+      213: -2226474431074949187
+    second: Night Sky_47
+  - first:
+      213: 5508301187702252458
+    second: Night Sky_48
+  - first:
+      213: 7239433576864645342
+    second: Night Sky_49
+  - first:
+      213: -6752996569330567310
+    second: Night Sky_50
+  - first:
+      213: -2091286265931710067
+    second: Night Sky_51
+  - first:
+      213: -8405660686944961701
+    second: Night Sky_52
+  - first:
+      213: -1406470203059689029
+    second: Night Sky_53
+  - first:
+      213: -7152472893004450681
+    second: Night Sky_54
+  - first:
+      213: -2147406494013177094
+    second: Night Sky_55
+  - first:
+      213: 5121197501312156022
+    second: Night Sky_56
+  - first:
+      213: 781517225160630844
+    second: Night Sky_57
+  - first:
+      213: 7476688547178576544
+    second: Night Sky_58
+  - first:
+      213: -6831845869191374028
+    second: Night Sky_59
+  - first:
+      213: 5825666634575878620
+    second: Night Sky_60
+  - first:
+      213: 6292175379266994386
+    second: Night Sky_61
+  - first:
+      213: 4522798223457282211
+    second: Night Sky_62
+  - first:
+      213: 5001702655994890524
+    second: Night Sky_63
+  - first:
+      213: -6143001338251140534
+    second: Night Sky_64
+  - first:
+      213: 5997579244590520613
+    second: Night Sky_65
+  - first:
+      213: -8470902305938479176
+    second: Night Sky_66
+  - first:
+      213: -3115319266582489967
+    second: Night Sky_67
+  - first:
+      213: -1169046715861896770
+    second: Night Sky_68
+  - first:
+      213: 1515148564690202571
+    second: Night Sky_69
+  - first:
+      213: 8490631218195829458
+    second: Night Sky_70
+  - first:
+      213: 8991516921561587111
+    second: Night Sky_71
+  - first:
+      213: 1846929601901615450
+    second: Night Sky_72
+  - first:
+      213: -9029927712367794700
+    second: Night Sky_73
+  - first:
+      213: -5166995788727847865
+    second: Night Sky_74
+  - first:
+      213: 3045145892445594647
+    second: Night Sky_75
+  - first:
+      213: -5874072499976986564
+    second: Night Sky_76
+  - first:
+      213: -1205161476764636748
+    second: Night Sky_77
+  - first:
+      213: -791055307444142578
+    second: Night Sky_78
+  - first:
+      213: -759043334348543395
+    second: Night Sky_79
+  - first:
+      213: 4591830757269072074
+    second: Night Sky_80
+  - first:
+      213: 7518981284020385872
+    second: Night Sky_81
+  - first:
+      213: 1105799335266570870
+    second: Night Sky_82
+  - first:
+      213: 6446949349534880992
+    second: Night Sky_83
+  - first:
+      213: 5072453567692927013
+    second: Night Sky_84
+  - first:
+      213: -6779433078865795345
+    second: Night Sky_85
+  - first:
+      213: -5397406440394832040
+    second: Night Sky_86
+  - first:
+      213: 6319510235673144998
+    second: Night Sky_87
+  - first:
+      213: -4844662870026613845
+    second: Night Sky_88
+  - first:
+      213: -3981335200995500655
+    second: Night Sky_89
+  - first:
+      213: -32282561923210832
+    second: Night Sky_90
+  - first:
+      213: -8869370782711863153
+    second: Night Sky_91
+  - first:
+      213: 6980133959664356276
+    second: Night Sky_92
+  - first:
+      213: -2097187779041243549
+    second: Night Sky_93
+  - first:
+      213: -4330890236637047720
+    second: Night Sky_94
+  - first:
+      213: -6995867515016360600
+    second: Night Sky_95
+  - first:
+      213: 3574686630604847065
+    second: Night Sky_96
+  - first:
+      213: 6207951821333711604
+    second: Night Sky_97
+  - first:
+      213: 4971345164695100390
+    second: Night Sky_98
+  - first:
+      213: -6107247229912839595
+    second: Night Sky_99
+  - first:
+      213: 8851670563737460692
+    second: Night Sky_100
+  - first:
+      213: 5185127765199781513
+    second: Night Sky_101
+  - first:
+      213: -7820010977702853735
+    second: Night Sky_102
+  - first:
+      213: -3890790588704408141
+    second: Night Sky_103
+  - first:
+      213: 2802159829724580891
+    second: Night Sky_104
+  - first:
+      213: 8083740525359307052
+    second: Night Sky_105
+  - first:
+      213: -1662032150478541818
+    second: Night Sky_106
+  - first:
+      213: 1790355597336206236
+    second: Night Sky_107
+  - first:
+      213: -6375018391063403623
+    second: Night Sky_108
+  - first:
+      213: 2199617977125875026
+    second: Night Sky_109
+  - first:
+      213: 2358414538340982107
+    second: Night Sky_110
+  - first:
+      213: 668609254694846306
+    second: Night Sky_111
+  - first:
+      213: -1201934796261035770
+    second: Night Sky_112
+  - first:
+      213: 8798767417491963106
+    second: Night Sky_113
+  - first:
+      213: 1551808417855060793
+    second: Night Sky_114
+  - first:
+      213: -6925209841764496761
+    second: Night Sky_115
+  - first:
+      213: -6916245692717033742
+    second: Night Sky_116
+  - first:
+      213: 9159968898729519424
+    second: Night Sky_117
+  - first:
+      213: -1033843477432839432
+    second: Night Sky_118
+  - first:
+      213: -1395584523626289491
+    second: Night Sky_119
+  - first:
+      213: -2883278558553589572
+    second: Night Sky_120
+  - first:
+      213: -2169543493436350236
+    second: Night Sky_121
+  - first:
+      213: 224783203725537663
+    second: Night Sky_122
+  - first:
+      213: 8570386493368572751
+    second: Night Sky_123
+  - first:
+      213: -6725031492158327001
+    second: Night Sky_124
+  - first:
+      213: 8013354693966760404
+    second: Night Sky_125
+  - first:
+      213: 1031429161169823143
+    second: Night Sky_126
+  - first:
+      213: 8210869544457595224
+    second: Night Sky_127
+  - first:
+      213: -2392670398284486554
+    second: Night Sky_128
+  - first:
+      213: 8539135161077109889
+    second: Night Sky_129
+  - first:
+      213: -6183222431938215837
+    second: Night Sky_130
+  - first:
+      213: -5344484880369407536
+    second: Night Sky_131
+  - first:
+      213: -2639701548247623371
+    second: Night Sky_132
+  - first:
+      213: -7722710980305014341
+    second: Night Sky_133
+  - first:
+      213: -4231229760373485365
+    second: Night Sky_134
+  - first:
+      213: -3394018063876178952
+    second: Night Sky_135
+  - first:
+      213: -7268396763217844814
+    second: Night Sky_136
+  - first:
+      213: -600339213868752791
+    second: Night Sky_137
+  - first:
+      213: -2726664081755428298
+    second: Night Sky_138
+  - first:
+      213: 224347186863076282
+    second: Night Sky_139
+  - first:
+      213: -8529215228535255280
+    second: Night Sky_140
+  - first:
+      213: -806884801163190234
+    second: Night Sky_141
+  - first:
+      213: -1619121630239874052
+    second: Night Sky_142
+  - first:
+      213: -996024968210150419
+    second: Night Sky_143
+  - first:
+      213: -4158745750034315631
+    second: Night Sky_144
+  - first:
+      213: 1214908833136143404
+    second: Night Sky_145
+  - first:
+      213: 1362329027216231548
+    second: Night Sky_146
+  - first:
+      213: 4727035407017650490
+    second: Night Sky_147
+  - first:
+      213: -7648441739075994309
+    second: Night Sky_148
+  - first:
+      213: 4343154264805647494
+    second: Night Sky_149
+  - first:
+      213: 4059442865802379322
+    second: Night Sky_150
+  - first:
+      213: 7492775378188521510
+    second: Night Sky_151
+  - first:
+      213: 4007789852349146140
+    second: Night Sky_152
+  - first:
+      213: 6089827363408924887
+    second: Night Sky_153
+  - first:
+      213: 1526510790196162997
+    second: Night Sky_154
+  - first:
+      213: 6608765389938624249
+    second: Night Sky_155
+  - first:
+      213: 9058124863279973636
+    second: Night Sky_156
+  - first:
+      213: 6089516157086690576
+    second: Night Sky_157
+  - first:
+      213: 5003352236238896963
+    second: Night Sky_158
+  - first:
+      213: -3385759948940246553
+    second: Night Sky_159
+  - first:
+      213: 2170157391974222957
+    second: Night Sky_160
+  - first:
+      213: -2834477038125009073
+    second: Night Sky_161
+  - first:
+      213: 7396666136659108153
+    second: Night Sky_162
+  - first:
+      213: 1934690633237264883
+    second: Night Sky_163
+  - first:
+      213: -2452380825657522610
+    second: Night Sky_164
+  - first:
+      213: 5687180392241575033
+    second: Night Sky_165
+  - first:
+      213: 591552226371664286
+    second: Night Sky_166
+  - first:
+      213: -5543614412743686279
+    second: Night Sky_167
+  - first:
+      213: -1225541062096989348
+    second: Night Sky_168
+  - first:
+      213: 11428924531393111
+    second: Night Sky_169
+  - first:
+      213: 3302158899492941218
+    second: Night Sky_170
+  - first:
+      213: -1984639572430457436
+    second: Night Sky_171
+  - first:
+      213: -6484077319043215718
+    second: Night Sky_172
+  - first:
+      213: 3046022795798044778
+    second: Night Sky_173
+  - first:
+      213: -3826876086676260679
+    second: Night Sky_174
+  - first:
+      213: 8582526348292065495
+    second: Night Sky_175
+  - first:
+      213: 5462226929562126612
+    second: Night Sky_176
+  - first:
+      213: 2711776083644942943
+    second: Night Sky_177
+  - first:
+      213: -1563385505400975031
+    second: Night Sky_178
+  - first:
+      213: -6613987474215462316
+    second: Night Sky_179
+  - first:
+      213: -1890687201185287762
+    second: Night Sky_180
+  - first:
+      213: -5883791413459273729
+    second: Night Sky_181
+  - first:
+      213: -8328701321598423072
+    second: Night Sky_182
+  - first:
+      213: 933412923505448995
+    second: Night Sky_183
+  - first:
+      213: 2512040959119243211
+    second: Night Sky_184
+  - first:
+      213: -8528626948723675463
+    second: Night Sky_185
+  - first:
+      213: -6658292780496390403
+    second: Night Sky_186
+  - first:
+      213: 3987297673616751575
+    second: Night Sky_187
+  - first:
+      213: 7390034702686611958
+    second: Night Sky_188
+  - first:
+      213: -4751305901445006682
+    second: Night Sky_189
+  - first:
+      213: -5297843972612536574
+    second: Night Sky_190
+  - first:
+      213: -195026743596871881
+    second: Night Sky_191
+  - first:
+      213: 7148154932148634931
+    second: Night Sky_192
+  - first:
+      213: -532327792650119316
+    second: Night Sky_193
+  - first:
+      213: 1158119698469446613
+    second: Night Sky_194
+  - first:
+      213: -8741662296601783760
+    second: Night Sky_195
+  - first:
+      213: 4959358364209176457
+    second: Night Sky_196
+  - first:
+      213: -6666521797089290101
+    second: Night Sky_197
+  - first:
+      213: 645431078480273987
+    second: Night Sky_198
+  - first:
+      213: 7889406322874797919
+    second: Night Sky_199
+  - first:
+      213: 8527706589580130800
+    second: Night Sky_200
+  - first:
+      213: 4517810572671049907
+    second: Night Sky_201
+  - first:
+      213: 6982920115173913621
+    second: Night Sky_202
+  - first:
+      213: 7577165890756324162
+    second: Night Sky_203
+  - first:
+      213: -6215235471741813488
+    second: Night Sky_204
+  - first:
+      213: -2795707526836252471
+    second: Night Sky_205
+  - first:
+      213: -5385347016324541125
+    second: Night Sky_206
+  - first:
+      213: -2435874011716785703
+    second: Night Sky_207
+  - first:
+      213: -3166967396485573398
+    second: Night Sky_208
+  - first:
+      213: 6205690746032737268
+    second: Night Sky_209
+  - first:
+      213: -3433446653807651955
+    second: Night Sky_210
+  - first:
+      213: -6621462694210603981
+    second: Night Sky_211
+  - first:
+      213: 8561874438732456634
+    second: Night Sky_212
+  - first:
+      213: 5756292630616038358
+    second: Night Sky_213
+  - first:
+      213: 2298190031331465268
+    second: Night Sky_214
+  - first:
+      213: -5280872452654527977
+    second: Night Sky_215
+  - first:
+      213: -737488496714342664
+    second: Night Sky_216
+  - first:
+      213: -7647443794470745097
+    second: Night Sky_217
+  - first:
+      213: 8850290052323122287
+    second: Night Sky_218
+  - first:
+      213: -5890478460633631933
+    second: Night Sky_219
+  - first:
+      213: 1648161930608575471
+    second: Night Sky_220
+  - first:
+      213: 2740172562548641653
+    second: Night Sky_221
+  - first:
+      213: 67700277517618209
+    second: Night Sky_222
+  - first:
+      213: 3458422873383755130
+    second: Night Sky_223
+  - first:
+      213: 6143893742680346580
+    second: Night Sky_224
+  - first:
+      213: 8699077608961739726
+    second: Night Sky_225
+  - first:
+      213: 2139970937823024747
+    second: Night Sky_226
+  - first:
+      213: -7305528369830950309
+    second: Night Sky_227
+  - first:
+      213: -4263231212054894799
+    second: Night Sky_228
+  - first:
+      213: -1434151532971332042
+    second: Night Sky_229
+  - first:
+      213: -5879230886090961670
+    second: Night Sky_230
+  - first:
+      213: -1012531921177227482
+    second: Night Sky_231
+  - first:
+      213: -8650585055590426011
+    second: Night Sky_232
+  - first:
+      213: -653479866179311027
+    second: Night Sky_233
+  - first:
+      213: 2725103790121214106
+    second: Night Sky_234
+  - first:
+      213: -7652957536629314316
+    second: Night Sky_235
+  - first:
+      213: 2195589348793079172
+    second: Night Sky_236
+  - first:
+      213: 4439854549749789610
+    second: Night Sky_237
+  - first:
+      213: -2487975525882639312
+    second: Night Sky_238
+  - first:
+      213: -6154010726436437776
+    second: Night Sky_239
+  - first:
+      213: -1904782200352857132
+    second: Night Sky_240
+  - first:
+      213: -49982431128992587
+    second: Night Sky_241
+  - first:
+      213: -7565461091274284626
+    second: Night Sky_242
+  - first:
+      213: 7954684968584443370
+    second: Night Sky_243
+  - first:
+      213: -5883394727738704523
+    second: Night Sky_244
+  - first:
+      213: -1960200411149648763
+    second: Night Sky_245
+  - first:
+      213: 649007196928927526
+    second: Night Sky_246
+  - first:
+      213: -7783439117354706659
+    second: Night Sky_247
+  - first:
+      213: 917072806020341887
+    second: Night Sky_248
+  - first:
+      213: 2661298277425571826
+    second: Night Sky_249
+  - first:
+      213: 547751627327735467
+    second: Night Sky_250
+  - first:
+      213: 2963143918502877332
+    second: Night Sky_251
+  - first:
+      213: 7764031947203214313
+    second: Night Sky_252
+  - first:
+      213: -5030817837515563612
+    second: Night Sky_253
+  - first:
+      213: -4204519660493868065
+    second: Night Sky_254
+  - first:
+      213: 8131364294725816216
+    second: Night Sky_255
+  - first:
+      213: 4936339333972865836
+    second: Night Sky_256
+  - first:
+      213: 8745011840536502601
+    second: Night Sky_257
+  - first:
+      213: -1762268379258745273
+    second: Night Sky_258
+  - first:
+      213: 7321993506052927270
+    second: Night Sky_259
+  - first:
+      213: -4628578010815246379
+    second: Night Sky_260
+  - first:
+      213: -8901892133654105225
+    second: Night Sky_261
+  - first:
+      213: 5157799906290917252
+    second: Night Sky_262
+  - first:
+      213: -965149008411003055
+    second: Night Sky_263
+  - first:
+      213: 3650694842466031543
+    second: Night Sky_264
+  - first:
+      213: -1125377939705079356
+    second: Night Sky_265
+  - first:
+      213: 670472431957973603
+    second: Night Sky_266
+  - first:
+      213: -7176392773953886022
+    second: Night Sky_267
+  - first:
+      213: -3842436612826870956
+    second: Night Sky_268
+  - first:
+      213: 7815660745376099977
+    second: Night Sky_269
+  - first:
+      213: -1115910421186792887
+    second: Night Sky_270
+  - first:
+      213: 7109392794744323488
+    second: Night Sky_271
+  - first:
+      213: 3202467113459110879
+    second: Night Sky_272
+  - first:
+      213: 4704347350502645056
+    second: Night Sky_273
+  - first:
+      213: -5249416872947157614
+    second: Night Sky_274
+  - first:
+      213: 7365640332514690327
+    second: Night Sky_275
+  - first:
+      213: -5342974088877094735
+    second: Night Sky_276
+  - first:
+      213: -3184321128911051637
+    second: Night Sky_277
+  - first:
+      213: -3873009438913083313
+    second: Night Sky_278
+  - first:
+      213: -6115800736647733175
+    second: Night Sky_279
+  - first:
+      213: -2822263547670928989
+    second: Night Sky_280
+  - first:
+      213: 6690646529851432218
+    second: Night Sky_281
+  - first:
+      213: -8010452125916070653
+    second: Night Sky_282
+  - first:
+      213: -7987842848442820244
+    second: Night Sky_283
+  - first:
+      213: 1808297547218319196
+    second: Night Sky_284
+  - first:
+      213: 2829975120696108449
+    second: Night Sky_285
+  - first:
+      213: -6516440178956888171
+    second: Night Sky_286
+  - first:
+      213: -8571006057118072537
+    second: Night Sky_287
+  - first:
+      213: 8560284516381322806
+    second: Night Sky_288
+  - first:
+      213: -7579845417630316841
+    second: Night Sky_289
+  - first:
+      213: -3175608770486147590
+    second: Night Sky_290
+  - first:
+      213: 6414084662651237365
+    second: Night Sky_291
+  - first:
+      213: -7285365713555458544
+    second: Night Sky_292
+  - first:
+      213: -2014265364099127942
+    second: Night Sky_293
+  - first:
+      213: 6039964732246977682
+    second: Night Sky_294
+  - first:
+      213: -8227357365518618279
+    second: Night Sky_295
+  - first:
+      213: 2018509760690489211
+    second: Night Sky_296
+  - first:
+      213: 7044844560513482972
+    second: Night Sky_297
+  - first:
+      213: -1369970201516710709
+    second: Night Sky_298
+  - first:
+      213: -7662677119750721818
+    second: Night Sky_299
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 20
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Night Sky_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc7b43bba35a1cb00800000000000000
+      internalID: 847139876589844431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_1
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b488a86fce99590800000000000000
+      internalID: -7666836346991260854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_2
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59ea3853fe82c030800000000000000
+      internalID: 3513527835110861148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_3
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc64a3686b3aec80800000000000000
+      internalID: -8292750444314989371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_4
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f10e17243070b30800000000000000
+      internalID: 4253371956987961139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_5
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8b777757deeb0d0800000000000000
+      internalID: -3405023179474224990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_6
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046b62be81d55dae0800000000000000
+      internalID: -1525210537189263808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_7
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6865f7f962da41a0800000000000000
+      internalID: -6824410932753110930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_8
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c12781a668e0ec0800000000000000
+      internalID: -3598791261987660742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_9
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a0740d4cfb104d40800000000000000
+      internalID: 5566479909867778209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_10
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4462f64351c5c0d0800000000000000
+      internalID: -3403101379991804851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_11
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5896d933d5932f6e0800000000000000
+      internalID: -1805317428161451643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2bad26c70ba42fb0800000000000000
+      internalID: -4673422463425729747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_13
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a951a748c851830800000000000000
+      internalID: 4041290741246696029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_14
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dea9447abf7bdd00800000000000000
+      internalID: 998532181184327378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98ae561d961ca50e0800000000000000
+      internalID: -2280297601080890743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_16
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d2e7d4cca6ef200800000000000000
+      internalID: 215727257866349950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_17
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8690aa3b072dc80800000000000000
+      internalID: -8299447246336202536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_18
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1db7fa5e0a87de6b0800000000000000
+      internalID: -5265419756882658351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f326269a447eb06b0800000000000000
+      internalID: -5328911451977260481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cfacf568bb35a840800000000000000
+      internalID: 5234655805059149769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851a57451e8713cc0800000000000000
+      internalID: -3733069706933460648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_22
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675e9048747d95f20800000000000000
+      internalID: 3411994894867752310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_23
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a880c23ffd740d540800000000000000
+      internalID: 5030599810955872394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 230
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf4f9dc0e0bf41e0800000000000000
+      internalID: -2211354412446691363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43de1f874049c360800000000000000
+      internalID: 7190348956161725259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_26
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e620a21e5b53dee0800000000000000
+      internalID: -1237545012999215392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_27
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a023252bedb1718a0800000000000000
+      internalID: -6334563707584892406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ffc8e87303400b40800000000000000
+      internalID: 5404393235037081585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_29
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31314ee3f04d40da0800000000000000
+      internalID: -5979421243296443629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_30
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1080e48c31c30f70800000000000000
+      internalID: 9152371333418483743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc1c957cc6bab6cd0800000000000000
+      internalID: -2563767079167999541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_32
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b87ff3d5fddc9a2d0800000000000000
+      internalID: -3266853695454709877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_33
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb6b8af3f6e537b0800000000000000
+      internalID: -5245032255448192029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_34
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c64fb7f800fe9c0800000000000000
+      internalID: -3895894536392250281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_35
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65b6a249488f060800000000000000
+      internalID: 6987480593767028389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_36
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d999e8a0e36e3c7e0800000000000000
+      internalID: -1746299076350142051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_37
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efbed00031c32bcd0800000000000000
+      internalID: -2543904787207951362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_38
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25cc893dca28a56f0800000000000000
+      internalID: -695099513679328174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_39
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b2c006c4e47fda50800000000000000
+      internalID: 6548080909143294641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_40
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a598af1652d6110800000000000000
+      internalID: 1255700973851597386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_41
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cb4db5f898bde540800000000000000
+      internalID: 5038886525194816454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_42
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3e613e6ff558280800000000000000
+      internalID: -9041715162899880998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1242216133eafa690800000000000000
+      internalID: -7588655312659143647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_44
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15ba970a5610aa90800000000000000
+      internalID: -7304814019664497379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_45
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3164cdab070b164a0800000000000000
+      internalID: -6601801580530612717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_46
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c6d04f93fb86f80800000000000000
+      internalID: -8113024473079387108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_47
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7a9422d49f911e0800000000000000
+      internalID: -2226474431074949187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_48
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3ead8feba617c40800000000000000
+      internalID: 5508301187702252458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_49
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 210
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed08d046b72a77460800000000000000
+      internalID: 7239433576864645342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 277be9b26698842a0800000000000000
+      internalID: -6752996569330567310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_51
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81cc73a8324af2e0800000000000000
+      internalID: -2091286265931710067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_52
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bfd2ce328195b80800000000000000
+      internalID: -8405660686944961701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_53
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9a4775dc63b7ce0800000000000000
+      internalID: -1406470203059689029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_54
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784fbda9ccf4dbc90800000000000000
+      internalID: -7152472893004450681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_55
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af24affcb21e232e0800000000000000
+      internalID: -2147406494013177094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67144528ef5221740800000000000000
+      internalID: 5121197501312156022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_57
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326c8f86c188da00800000000000000
+      internalID: 781517225160630844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_58
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa7fc6de9882c760800000000000000
+      internalID: 7476688547178576544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_59
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bd0aee0686031a0800000000000000
+      internalID: -6831845869191374028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_60
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd99dbd30fce8d050800000000000000
+      internalID: 5825666634575878620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_61
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d00ba98b2c425750800000000000000
+      internalID: 6292175379266994386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a860fb750534ce30800000000000000
+      internalID: 4522798223457282211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_63
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1904b2c01e996540800000000000000
+      internalID: 5001702655994890524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_64
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42aac274dcafbaa0800000000000000
+      internalID: -6143001338251140534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_65
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 529d212eb8eab3350800000000000000
+      internalID: 5997579244590520613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7ef77cb3f417a80800000000000000
+      internalID: -8470902305938479176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_67
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1949b69f1a924c4d0800000000000000
+      internalID: -3115319266582489967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_68
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb1f63fa436b6cfe0800000000000000
+      internalID: -1169046715861896770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_69
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcf6d4c8793e60510800000000000000
+      internalID: 1515148564690202571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_70
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2976f8b18c4d570800000000000000
+      internalID: 8490631218195829458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_71
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ad9795400948cc70800000000000000
+      internalID: 8991516921561587111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_72
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59df7effac91a910800000000000000
+      internalID: 1846929601901615450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_73
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5acd496904fa280800000000000000
+      internalID: -9029927712367794700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_74
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 190
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744ffe0c4b42b48b0800000000000000
+      internalID: -5166995788727847865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 714a5782e08824a20800000000000000
+      internalID: 3045145892445594647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_76
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c302bf5fe2a1b7ea0800000000000000
+      internalID: -5874072499976986564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_77
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b96578a508664fe0800000000000000
+      internalID: -1205161476764636748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_78
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0eba1a936b9505f0800000000000000
+      internalID: -791055307444142578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae607eb165775f0800000000000000
+      internalID: -759043334348543395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_80
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac86cb3ceb579bf30800000000000000
+      internalID: 4591830757269072074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_81
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05878daf3a9c85860800000000000000
+      internalID: 7518981284020385872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_82
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6725d6bf2a6985f00800000000000000
+      internalID: 1105799335266570870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_83
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e456f7a64a287950800000000000000
+      internalID: 6446949349534880992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_84
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520fff115a9f46640800000000000000
+      internalID: 5072453567692927013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_85
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6eba3a88d9ae1a0800000000000000
+      internalID: -6779433078865795345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_86
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8574cdb607f8815b0800000000000000
+      internalID: -5397406440394832040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ae2ebfb31963b750800000000000000
+      internalID: 6319510235673144998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_88
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab0a8fa9cc44ccb0800000000000000
+      internalID: -4844662870026613845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_89
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d97ec8ab47fb8c0800000000000000
+      internalID: -3981335200995500655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_90
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b1a0245e2f4d8ff0800000000000000
+      internalID: -32282561923210832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_91
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f882b3bd34aa9e480800000000000000
+      internalID: -8869370782711863153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_92
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb4f6e9ada6ed060800000000000000
+      internalID: 6980133959664356276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_93
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ec4fa83da45e2e0800000000000000
+      internalID: -2097187779041243549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_94
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8549a0c964695e3c0800000000000000
+      internalID: -4330890236637047720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_95
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d41cf8f8fa9ee90800000000000000
+      internalID: -6995867515016360600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_96
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d73a801d86db9130800000000000000
+      internalID: 3574686630604847065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_97
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fac5555a43172650800000000000000
+      internalID: 6207951821333711604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_98
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ebd1858614cdf440800000000000000
+      internalID: 4971345164695100390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_99
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 170
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a8e818003be3ba0800000000000000
+      internalID: -6107247229912839595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df5a54ca7377da70800000000000000
+      internalID: 8851670563737460692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_101
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e7fbffa3645f740800000000000000
+      internalID: 5185127765199781513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_102
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 993cd5ea27db97390800000000000000
+      internalID: -7820010977702853735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_103
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd37d8e292210ac0800000000000000
+      internalID: -3890790588704408141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_104
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1c4a96c48543e620800000000000000
+      internalID: 2802159829724580891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_105
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299876ad273f2070800000000000000
+      internalID: 8083740525359307052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ca271a0964fe8e0800000000000000
+      internalID: -1662032150478541818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_107
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b5bd81eee98d810800000000000000
+      internalID: 1790355597336206236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_108
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9936514bc826787a0800000000000000
+      internalID: -6375018391063403623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_109
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25da62865ec968e10800000000000000
+      internalID: 2199617977125875026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_110
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5d5ee6f685cab020800000000000000
+      internalID: 2358414538340982107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_111
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fff9f1390674900800000000000000
+      internalID: 668609254694846306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_112
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601fda1cbaed15fe0800000000000000
+      internalID: -1201934796261035770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_113
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ecb3ec29508b1a70800000000000000
+      internalID: 8798767417491963106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_114
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b36b1c881298510800000000000000
+      internalID: 1551808417855060793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_115
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a869a1756b4ef90800000000000000
+      internalID: -6925209841764496761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_116
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f69642bf2f8400a0800000000000000
+      internalID: -6916245692717033742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_117
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049266a8e2fbe1f70800000000000000
+      internalID: 9159968898729519424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_118
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f2d246b5dc07a1f0800000000000000
+      internalID: -1033843477432839432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_119
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da6e8371543e1ace0800000000000000
+      internalID: -1395584523626289491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_120
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8b9e06d698cf7d0800000000000000
+      internalID: -2883278558553589572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_121
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e067fcffab34e1e0800000000000000
+      internalID: -2169543493436350236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_122
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71f88102279e1300800000000000000
+      internalID: 224783203725537663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_123
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b1a0d9b1120f670800000000000000
+      internalID: 8570386493368572751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_124
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 150
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72776961d73eba2a0800000000000000
+      internalID: -6725031492158327001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_125
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9091933a7253f60800000000000000
+      internalID: 8013354693966760404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_126
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a5a18a7b5f505e00800000000000000
+      internalID: 1031429161169823143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_127
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 859e77ef85ed2f170800000000000000
+      internalID: 8210869544457595224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_128
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66829ad13f68bced0800000000000000
+      internalID: -2392670398284486554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_129
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1849c0dcf2a118670800000000000000
+      internalID: 8539135161077109889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_130
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 360881155f7c03aa0800000000000000
+      internalID: -6183222431938215837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_131
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a22e415394d5b0800000000000000
+      internalID: -5344484880369407536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_132
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539d6a77d65ed5bd0800000000000000
+      internalID: -2639701548247623371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_133
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb139e3b74b63d490800000000000000
+      internalID: -7722710980305014341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_134
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc090e173f6a745c0800000000000000
+      internalID: -4231229760373485365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_135
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fbb66d9d8606e0d0800000000000000
+      internalID: -3394018063876178952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_136
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52dc947a7712b90800000000000000
+      internalID: -7268396763217844814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_137
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960ad9c6aaa2ba7f0800000000000000
+      internalID: -600339213868752791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_138
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63aa621d671f82ad0800000000000000
+      internalID: -2726664081755428298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_139
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3f45be39a0d1300800000000000000
+      internalID: 224347186863076282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01fcd4a70f322a980800000000000000
+      internalID: -8529215228535255280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_141
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620a1046c8e5dc4f0800000000000000
+      internalID: -806884801163190234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_142
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3a66da479b789e0800000000000000
+      internalID: -1619121630239874052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_143
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deb0a6e81986d22f0800000000000000
+      internalID: -996024968210150419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_144
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1960a0a36ca2946c0800000000000000
+      internalID: -4158745750034315631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_145
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c609995293cd010800000000000000
+      internalID: 1214908833136143404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_146
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c4d664807f7e210800000000000000
+      internalID: 1362329027216231548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_147
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a392bf368adc99140800000000000000
+      internalID: 4727035407017650490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_148
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dba11f2c64bd590800000000000000
+      internalID: -7648441739075994309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_149
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 130
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 684a676facbf54c30800000000000000
+      internalID: 4343154264805647494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_150
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a30052257c9065830800000000000000
+      internalID: 4059442865802379322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_151
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62058be028fabf760800000000000000
+      internalID: 7492775378188521510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_152
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c14afa3f2a78e9730800000000000000
+      internalID: 4007789852349146140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_153
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d05173c8b9638450800000000000000
+      internalID: 6089827363408924887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_154
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b17173d9714f2510800000000000000
+      internalID: 1526510790196162997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_155
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6003f7b1d07bb50800000000000000
+      internalID: 6608765389938624249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_156
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 405cfe6329ce4bd70800000000000000
+      internalID: 9058124863279973636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_157
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d67256eae428450800000000000000
+      internalID: 6089516157086690576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_158
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34ffc27995a7f6540800000000000000
+      internalID: 5003352236238896963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_159
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e10ca4d34d5301d0800000000000000
+      internalID: -3385759948940246553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_160
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6ccf4766a2fd1e10800000000000000
+      internalID: 2170157391974222957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_161
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f47be8ac62ae9a8d0800000000000000
+      internalID: -2834477038125009073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_162
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9312abd79ac36a660800000000000000
+      internalID: 7396666136659108153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_163
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9f16861e669da10800000000000000
+      internalID: 1934690633237264883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_164
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4644b0e1a467fdd0800000000000000
+      internalID: -2452380825657522610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_165
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974302d4f6cecee40800000000000000
+      internalID: 5687180392241575033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_166
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9979fe9d9d953800800000000000000
+      internalID: 591552226371664286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_167
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9774dac10102113b0800000000000000
+      internalID: -5543614412743686279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_168
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53dd00b5e00efee0800000000000000
+      internalID: -1225541062096989348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_169
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752cbdadb8a982000800000000000000
+      internalID: 11428924531393111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_170
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2adeb240600a3dd20800000000000000
+      internalID: 3302158899492941218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_171
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5791ee2d42574e0800000000000000
+      internalID: -1984639572430457436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_172
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e034e480ee306a0800000000000000
+      internalID: -6484077319043215718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_173
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a60e8412895a54a20800000000000000
+      internalID: 3046022795798044778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_174
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 110
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b8793e897434eac0800000000000000
+      internalID: -3826876086676260679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_175
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d80169dd324b1770800000000000000
+      internalID: 8582526348292065495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_176
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4198f1bc37abdcb40800000000000000
+      internalID: 5462226929562126612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_177
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5a8e000bf922a520800000000000000
+      internalID: 2711776083644942943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_178
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941949f7a2dbd4ae0800000000000000
+      internalID: -1563385505400975031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_179
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a11824f656634a0800000000000000
+      internalID: -6613987474215462316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_180
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea139fff10ee2c5e0800000000000000
+      internalID: -1890687201185287762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_181
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7344412e2985ea0800000000000000
+      internalID: -5883791413459273729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_182
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0efaccd76428a6c80800000000000000
+      internalID: -8328701321598423072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_183
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3281d46cb1624fc00800000000000000
+      internalID: 933412923505448995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_184
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7b88561ff8cd220800000000000000
+      internalID: 2512040959119243211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_185
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be608b0afa34a980800000000000000
+      internalID: -8528626948723675463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_186
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df6f6f74efdf893a0800000000000000
+      internalID: -6658292780496390403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_187
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dbfaa9cb1ab55730800000000000000
+      internalID: 3987297673616751575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_188
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e173786dae8660800000000000000
+      internalID: 7390034702686611958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_189
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6aa3725c478ff0eb0800000000000000
+      internalID: -4751305901445006682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_190
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2074cf0e9f64a76b0800000000000000
+      internalID: -5297843972612536574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_191
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73f0532c5302b4df0800000000000000
+      internalID: -195026743596871881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_192
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3350d2ac909533360800000000000000
+      internalID: 7148154932148634931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_193
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67950761bacc98f0800000000000000
+      internalID: -532327792650119316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_194
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d367a2dab7721010800000000000000
+      internalID: 1158119698469446613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_195
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03210a0e4706fa680800000000000000
+      internalID: -8741662296601783760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_196
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fdc8c082e23d440800000000000000
+      internalID: 4959358364209176457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_197
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b88181d0fb1cb73a0800000000000000
+      internalID: -6666521797089290101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_198
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34260df652805f800800000000000000
+      internalID: 645431078480273987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_199
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 90
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f4ca3304dcc7d60800000000000000
+      internalID: 7889406322874797919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_200
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f97ea426ff785670800000000000000
+      internalID: 8527706589580130800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_201
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b0ef8a87cc72be30800000000000000
+      internalID: 4517810572671049907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_202
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514fedff8d058e060800000000000000
+      internalID: 6982920115173913621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_203
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24bacba6b30872960800000000000000
+      internalID: 7577165890756324162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_204
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01dfb67a44c0fb9a0800000000000000
+      internalID: -6215235471741813488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_205
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c01a0f01d6a339d0800000000000000
+      internalID: -2795707526836252471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_206
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3514c3eb676345b0800000000000000
+      internalID: -5385347016324541125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_207
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9e30efd79023ed0800000000000000
+      internalID: -2435874011716785703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_208
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4db35aeebac04d0800000000000000
+      internalID: -3166967396485573398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_209
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fbc537bada0f1650800000000000000
+      internalID: 6205690746032737268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_210
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d839a84a572f950d0800000000000000
+      internalID: -3433446653807651955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_211
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334731af2c6db14a0800000000000000
+      internalID: -6621462694210603981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_212
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab225247073e1d670800000000000000
+      internalID: 8561874438732456634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_213
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6db511f36a572ef40800000000000000
+      internalID: 5756292630616038358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_214
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4381bdb38afc4ef10800000000000000
+      internalID: 2298190031331465268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_215
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71a816bcb7296b6b0800000000000000
+      internalID: -5280872452654527977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe976f9e1ae3c5f0800000000000000
+      internalID: -737488496714342664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_217
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb4ec60362ded590800000000000000
+      internalID: -7647443794470745097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_218
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6c94e769eb82da70800000000000000
+      internalID: 8850290052323122287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_219
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343b7d49c01d04ea0800000000000000
+      internalID: -5890478460633631933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_220
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe30f362b827fd610800000000000000
+      internalID: 1648161930608575471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_221
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57fcbf57d6c070620800000000000000
+      internalID: 2740172562548641653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_222
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c02a03b0580f000800000000000000
+      internalID: 67700277517618209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_223
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ddf13a749ceff20800000000000000
+      internalID: 3458422873383755130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_224
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 70
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df0536aece734550800000000000000
+      internalID: 6143893742680346580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_225
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb08b3eef459b870800000000000000
+      internalID: 8699077608961739726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_226
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66d99ada34b2bd10800000000000000
+      internalID: 2139970937823024747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_227
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5a00bb67ac8d9a90800000000000000
+      internalID: -7305528369830950309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_228
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1372c1adcc5f5d4c0800000000000000
+      internalID: -4263231212054894799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_229
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e692b77ced81ce0800000000000000
+      internalID: -1434151532971332042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_230
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc0b0a98a6c86ea0800000000000000
+      internalID: -5879230886090961670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_231
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fcc721593c2f1f0800000000000000
+      internalID: -1012531921177227482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_232
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56ada3689b2f2f780800000000000000
+      internalID: -8650585055590426011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_233
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4a2384268f5ee6f0800000000000000
+      internalID: -653479866179311027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_234
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a90ee3a757381d520800000000000000
+      internalID: 2725103790121214106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_235
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcaf04eaab3bc590800000000000000
+      internalID: -7652957536629314316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_236
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485517741ec487e10800000000000000
+      internalID: 2195589348793079172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_237
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa3fc3c80388d9d30800000000000000
+      internalID: 4439854549749789610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_238
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c46e9e07fe87dd0800000000000000
+      internalID: -2487975525882639312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_239
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f000d289df889aa0800000000000000
+      internalID: -6154010726436437776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_240
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d32b754eaad095e0800000000000000
+      internalID: -1904782200352857132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_241
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b4cb836e3d6e4ff0800000000000000
+      internalID: -49982431128992587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_242
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1ae849835120790800000000000000
+      internalID: -7565461091274284626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_243
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae57d9c45d7b46e60800000000000000
+      internalID: 7954684968584443370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_244
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57d7abbaaabf95ea0800000000000000
+      internalID: -5883394727738704523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_245
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cb9d49c18fbc4e0800000000000000
+      internalID: -1960200411149648763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_246
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627ee956b9cb10900800000000000000
+      internalID: 649007196928927526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_247
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1951377c5babf390800000000000000
+      internalID: -7783439117354706659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_248
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f706304bbd81abc00800000000000000
+      internalID: 917072806020341887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_249
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 50
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f76f43eea4dee420800000000000000
+      internalID: 2661298277425571826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_250
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba60304f3310a9700800000000000000
+      internalID: 547751627327735467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_251
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49819b8c1b33f1920800000000000000
+      internalID: 2963143918502877332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_252
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ebf4dd9be16fbb60800000000000000
+      internalID: 7764031947203214313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_253
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad9f29c4d1fe2ab0800000000000000
+      internalID: -5030817837515563612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_254
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3fd1135ab86a5c0800000000000000
+      internalID: -4204519660493868065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_255
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f4d668eb868d070800000000000000
+      internalID: 8131364294725816216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_256
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23bd3c6876618440800000000000000
+      internalID: 4936339333972865836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_257
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94163c79fe58c5970800000000000000
+      internalID: 8745011840536502601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74e0167fe3a2b87e0800000000000000
+      internalID: -1762268379258745273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_259
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f6008dc42fc9560800000000000000
+      internalID: 7321993506052927270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_260
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5df4c2a82dcf3cfb0800000000000000
+      internalID: -4628578010815246379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_261
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773f3b8c440267480800000000000000
+      internalID: -8901892133654105225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_262
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f530500bf249740800000000000000
+      internalID: 5157799906290917252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_263
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1577756271a1b92f0800000000000000
+      internalID: -965149008411003055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_264
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7d984fd9fd9a230800000000000000
+      internalID: 3650694842466031543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_265
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c951d1f9bad160f0800000000000000
+      internalID: -1125377939705079356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_266
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a1c82ef1ffd4900800000000000000
+      internalID: 670472431957973603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_267
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab86cc35bc4586c90800000000000000
+      internalID: -7176392773953886022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_268
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bcf7c324cecaac0800000000000000
+      internalID: -3842436612826870956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_269
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e6b1de90ec67c60800000000000000
+      internalID: 7815660745376099977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_270
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9423100626d7380f0800000000000000
+      internalID: -1115910421186792887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_271
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf4736413a9a260800000000000000
+      internalID: 7109392794744323488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_272
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3d99e4fd2717c20800000000000000
+      internalID: 3202467113459110879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_273
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d92c69df2394140800000000000000
+      internalID: 4704347350502645056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_274
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 30
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295fa0aaa235627b0800000000000000
+      internalID: -5249416872947157614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_275
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71504da8bd2083660800000000000000
+      internalID: 7365640332514690327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_276
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b84d5cdf51f9d5b0800000000000000
+      internalID: -5342974088877094735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_277
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b846c74fdc40fc3d0800000000000000
+      internalID: -3184321128911051637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_278
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f48c9d57f6e404ac0800000000000000
+      internalID: -3873009438913083313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_279
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9402a0702af402ba0800000000000000
+      internalID: -6115800736647733175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_280
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a16a82a14e45d8d0800000000000000
+      internalID: -2822263547670928989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_281
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9e710293f9dc50800000000000000
+      internalID: 6690646529851432218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_282
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dff709b3825d090800000000000000
+      internalID: -8010452125916070653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_283
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69dbe0304b752190800000000000000
+      internalID: -7987842848442820244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_284
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c577826d90d581910800000000000000
+      internalID: 1808297547218319196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_285
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5e840e067164720800000000000000
+      internalID: 2829975120696108449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_286
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597113dce24f095a0800000000000000
+      internalID: -6516440178956888171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_287
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72181c5f66bad0980800000000000000
+      internalID: -8571006057118072537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_288
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63e6f2fc96d3cc670800000000000000
+      internalID: 8560284516381322806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_289
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6c5cd90cafec690800000000000000
+      internalID: -7579845417630316841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_290
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af5ee89f5a8fde3d0800000000000000
+      internalID: -3175608770486147590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_291
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f3bb947408630950800000000000000
+      internalID: 6414084662651237365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_292
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01677b8ab7e25ea90800000000000000
+      internalID: -7285365713555458544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_293
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75af79c254eb04e0800000000000000
+      internalID: -2014265364099127942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_294
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29ce7714ce342d350800000000000000
+      internalID: 6039964732246977682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_295
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951b114011e82dd80800000000000000
+      internalID: -8227357365518618279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_296
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b778d9dceef230c10800000000000000
+      internalID: 2018509760690489211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_297
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd0cf377dc054c160800000000000000
+      internalID: 7044844560513482972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_298
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4e9b13c53ecfce0800000000000000
+      internalID: -1369970201516710709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night Sky_299
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 10
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eeaeb812c3b8a590800000000000000
+      internalID: -7662677119750721818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

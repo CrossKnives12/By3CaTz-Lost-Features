@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: 4962dce4b6a87ef4184730f240ba884c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2464736080864045946
+    second: darkpine_spritesheet_0
+  - first:
+      213: 8001185862529140959
+    second: darkpine_spritesheet_1
+  - first:
+      213: -6095022945936895100
+    second: darkpine_spritesheet_2
+  - first:
+      213: 3608039599628171062
+    second: darkpine_spritesheet_3
+  - first:
+      213: 4218360318118883674
+    second: darkpine_spritesheet_4
+  - first:
+      213: -1138882349661870850
+    second: darkpine_spritesheet_5
+  - first:
+      213: -3068130159214803755
+    second: darkpine_spritesheet_6
+  - first:
+      213: -3404641776384750722
+    second: darkpine_spritesheet_7
+  - first:
+      213: -3968102887183744217
+    second: darkpine_spritesheet_8
+  - first:
+      213: -6750993537347045215
+    second: darkpine_spritesheet_9
+  - first:
+      213: -4120224866268636019
+    second: darkpine_spritesheet_10
+  - first:
+      213: -4558911840286517399
+    second: darkpine_spritesheet_11
+  - first:
+      213: -3741010207415446089
+    second: darkpine_spritesheet_12
+  - first:
+      213: -2679106861011429507
+    second: darkpine_spritesheet_13
+  - first:
+      213: -3499714552795155626
+    second: darkpine_spritesheet_14
+  - first:
+      213: 3796040761999433994
+    second: darkpine_spritesheet_15
+  - first:
+      213: -7099223100440629368
+    second: darkpine_spritesheet_16
+  - first:
+      213: -1327263034531484584
+    second: darkpine_spritesheet_17
+  - first:
+      213: 7759155766092500115
+    second: darkpine_spritesheet_18
+  - first:
+      213: 8188716781823978985
+    second: darkpine_spritesheet_19
+  - first:
+      213: -1134770599483351656
+    second: darkpine_spritesheet_20
+  - first:
+      213: 8811290606652615829
+    second: darkpine_spritesheet_21
+  - first:
+      213: -7241562276249323108
+    second: darkpine_spritesheet_22
+  - first:
+      213: 6278445967527718791
+    second: darkpine_spritesheet_23
+  - first:
+      213: 1074813560869837498
+    second: darkpine_spritesheet_24
+  - first:
+      213: -8347859705447727629
+    second: darkpine_spritesheet_25
+  - first:
+      213: 7603634017555803092
+    second: darkpine_spritesheet_26
+  - first:
+      213: 4779323599192247180
+    second: darkpine_spritesheet_27
+  - first:
+      213: -6722299140909063512
+    second: darkpine_spritesheet_28
+  - first:
+      213: -1798825509716834265
+    second: darkpine_spritesheet_29
+  - first:
+      213: 2135698366176724702
+    second: darkpine_spritesheet_30
+  - first:
+      213: 4200648958818485686
+    second: darkpine_spritesheet_31
+  - first:
+      213: 4784281384674528734
+    second: darkpine_spritesheet_32
+  - first:
+      213: -211017782331837327
+    second: darkpine_spritesheet_33
+  - first:
+      213: -5504110473121856544
+    second: darkpine_spritesheet_34
+  - first:
+      213: -7617273161562173168
+    second: darkpine_spritesheet_35
+  - first:
+      213: -7895351858244140581
+    second: darkpine_spritesheet_36
+  - first:
+      213: -1656449016144461805
+    second: darkpine_spritesheet_37
+  - first:
+      213: 7219676133078807371
+    second: darkpine_spritesheet_38
+  - first:
+      213: -5685796499718215555
+    second: darkpine_spritesheet_39
+  - first:
+      213: -3878315197612247919
+    second: darkpine_spritesheet_40
+  - first:
+      213: -6585544689122235111
+    second: darkpine_spritesheet_41
+  - first:
+      213: -4090745091718020578
+    second: darkpine_spritesheet_42
+  - first:
+      213: -4984525349784548381
+    second: darkpine_spritesheet_43
+  - first:
+      213: -4276396252669741552
+    second: darkpine_spritesheet_44
+  - first:
+      213: -8377374257608620875
+    second: darkpine_spritesheet_45
+  - first:
+      213: -8831884250251905876
+    second: darkpine_spritesheet_46
+  - first:
+      213: 7347824118177868801
+    second: darkpine_spritesheet_47
+  - first:
+      213: 1757092089320813754
+    second: darkpine_spritesheet_48
+  - first:
+      213: 2423851343341160408
+    second: darkpine_spritesheet_49
+  - first:
+      213: -122364169153120059
+    second: darkpine_spritesheet_50
+  - first:
+      213: -4466696058411023944
+    second: darkpine_spritesheet_51
+  - first:
+      213: -8223135895816672906
+    second: darkpine_spritesheet_52
+  - first:
+      213: 1259063141441725001
+    second: darkpine_spritesheet_53
+  - first:
+      213: -1793082277040080563
+    second: darkpine_spritesheet_54
+  - first:
+      213: 4701432933476731108
+    second: darkpine_spritesheet_55
+  - first:
+      213: 3827120846425109432
+    second: darkpine_spritesheet_56
+  - first:
+      213: 5779632054177666298
+    second: darkpine_spritesheet_57
+  - first:
+      213: 9115574612927181978
+    second: darkpine_spritesheet_58
+  - first:
+      213: 5364255880279584622
+    second: darkpine_spritesheet_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: darkpine_spritesheet_0
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b6df42860843220800000000000000
+      internalID: 2464736080864045946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_1
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 244
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd84ded562ce90f60800000000000000
+      internalID: 8001185862529140959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_2
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 244
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48393996ce02a6ba0800000000000000
+      internalID: -6095022945936895100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 637316f46e4521230800000000000000
+      internalID: 3608039599628171062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 208
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5174180c50aa8a30800000000000000
+      internalID: 4218360318118883674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 208
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef4217b7980e130f0800000000000000
+      internalID: -1138882349661870850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_6
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 212
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4c65730efcb65d0800000000000000
+      internalID: -3068130159214803755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_7
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 213
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bc12bc75840c0d0800000000000000
+      internalID: -3404641776384750722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_8
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 180
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7230631b2777ee8c0800000000000000
+      internalID: -3968102887183744217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a8b8756527af42a0800000000000000
+      internalID: -6750993537347045215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 176
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c9353605502d6c0800000000000000
+      internalID: -4120224866268636019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 180
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 967566dd5dd7bb0c0800000000000000
+      internalID: -4558911840286517399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_12
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 176
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b554ed7903451cc0800000000000000
+      internalID: -3741010207415446089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_13
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 96
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d771a122186e1dad0800000000000000
+      internalID: -2679106861011429507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_14
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 176
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653316118248e6fc0800000000000000
+      internalID: -3499714552795155626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_15
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0121e3f5fe3ea430800000000000000
+      internalID: 3796040761999433994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_16
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 149
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f2df4143e7a7d90800000000000000
+      internalID: -7099223100440629368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_17
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 144
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c6e3f5d4d949de0800000000000000
+      internalID: -1327263034531484584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_18
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 144
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39c0eda3f0f0eab60800000000000000
+      internalID: 7759155766092500115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_19
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 144
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ede5e2078a24a170800000000000000
+      internalID: 8188716781823978985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_20
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 149
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ddc3ce62c7040f0800000000000000
+      internalID: -1134770599483351656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_21
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 16
+        width: 63
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ce34e5f1ef74a70800000000000000
+      internalID: 8811290606652615829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_22
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 110
+        width: 44
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c993a492a7dc08b90800000000000000
+      internalID: -7241562276249323108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_23
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 94
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f29f3c755812750800000000000000
+      internalID: 6278445967527718791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_24
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aba5b6f2d318aee00800000000000000
+      internalID: 1074813560869837498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 117
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdbdf5a3d1762c80800000000000000
+      internalID: -8347859705447727629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_26
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 112
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db6d7a6ad8858960800000000000000
+      internalID: 7603634017555803092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bce74dd71935240800000000000000
+      internalID: 4779323599192247180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_28
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 112
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a2a3303c8895b2a0800000000000000
+      internalID: -6722299140909063512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_29
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 117
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728ca60cab94907e0800000000000000
+      internalID: -1798825509716834265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_30
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 80
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed6885f395683ad10800000000000000
+      internalID: 2135698366176724702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 78
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58d78d8f3bb4a30800000000000000
+      internalID: 4200648958818485686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_32
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd0a07329e256240800000000000000
+      internalID: 4784281384674528734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174f1dae170521df0800000000000000
+      internalID: -211017782331837327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_34
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 80
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3801dcfa87d93b0800000000000000
+      internalID: -5504110473121856544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_35
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 80
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01158f7ea620a4690800000000000000
+      internalID: -7617273161562173168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_36
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 80
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd143a8f0531e6290800000000000000
+      internalID: -7895351858244140581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_37
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 80
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100a24656c1309e0800000000000000
+      internalID: -1656449016144461805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 16
+        width: 47
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4337890131713460800000000000000
+      internalID: 7219676133078807371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 48
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78e229453ef711b0800000000000000
+      internalID: -5685796499718215555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_40
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 46
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 194b25f30e47d2ac0800000000000000
+      internalID: -3878315197612247919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_41
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 46
+        width: 16
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da8683ff17b94a0800000000000000
+      internalID: -6585544689122235111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_42
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 48
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1289754301ca37c0800000000000000
+      internalID: -4090745091718020578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_43
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb89208a9863dab0800000000000000
+      internalID: -4984525349784548381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_44
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 48
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016fec8f34037a4c0800000000000000
+      internalID: -4276396252669741552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_45
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 48
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b48cb87f769dbb80800000000000000
+      internalID: -8377374257608620875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_46
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 48
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca43e565118de6580800000000000000
+      internalID: -8831884250251905876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_47
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 48
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c2a04ea17b8f560800000000000000
+      internalID: 7347824118177868801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_48
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab4bd9d12f1726810800000000000000
+      internalID: 1757092089320813754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_49
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 16
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7043464ff33a120800000000000000
+      internalID: 2423851343341160408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_50
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 13
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8746cbf664d4ef0800000000000000
+      internalID: -122364169153120059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_51
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 14
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b106c6b99b1302c0800000000000000
+      internalID: -4466696058411023944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6796516887d81ed80800000000000000
+      internalID: -8223135895816672906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_53
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942eb6f9147197110800000000000000
+      internalID: 1259063141441725001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_54
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 16
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d493aff4b21bd17e0800000000000000
+      internalID: -1793082277040080563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_55
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 16
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e8043ff758de3140800000000000000
+      internalID: 4701432933476731108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_56
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b339a3022aac1530800000000000000
+      internalID: 3827120846425109432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_57
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 16
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af498b14bb0653050800000000000000
+      internalID: 5779632054177666298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_58
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94f71760d6018e70800000000000000
+      internalID: 9115574612927181978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: darkpine_spritesheet_59
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 16
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6f6d545d4aa17a40800000000000000
+      internalID: 5364255880279584622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
